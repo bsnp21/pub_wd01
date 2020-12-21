@@ -1,9 +1,10 @@
-var _Max_struct={
+var _bnotes=
+{
     "Gen": {
         "1": {
             "1": "<ol><li>--williamd</li></ol>",
-            "2": "",
-            "3": "",
+            "2": "<ol><li>--</li></ol>",
+            "3": "1) Proverbs 8:30. 2) we plural 3) light is Jesus 4) spirit over water 1:2 and mat14:25",
             "4": "",
             "5": "",
             "6": "",
@@ -14,8 +15,8 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
-            "15": "",
+            "14": "Sun, moon, stars; God, Jesus, Spirit.&nbsp;",
+            "15": "Jhn1-18",
             "16": "",
             "17": "",
             "18": "",
@@ -61,13 +62,13 @@ var _Max_struct={
             "25": ""
         },
         "3": {
-            "1": "",
-            "2": "",
+            "1": "---1.) steal speech right of man for different types.   2.) Affirmative command became questionable. 3.) unique Lord God became pan god. 4.) true mixed in false. (syncretism)  5.) create word of true, question. 6.) modification concept. 7.) attractive to change attention (behold to it). 8.)  to think  9.) break silence, to speak 10.) cause to answer to make conversation.        ",
+            "2": "The weakness of Eve: 1.) misuse personal identity. 2.) open communication channel to Serpent. (excuse)   3.) inaccurate obscure 3a.) eternal become past finished tense. 3b.) add touch to die.    4.) attitude to judge God. 5.) gossip secret of God. 6) fall in love with Serpent",
             "3": "",
-            "4": "",
-            "5": "",
+            "4": "1) firmly deny God's word. 2) negative word used in negative result. 3) Extra knowledge of God. ",
+            "5": "like god != wa image of god",
             "6": "",
-            "7": "",
+            "7": "fig leaf=cover=liar=art=&gt;Mat21:19-curse fig tree;&nbsp;",
             "8": "",
             "9": "",
             "10": "",
@@ -101,7 +102,7 @@ var _Max_struct={
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "The Seven shadow Jesus. The Sign shadow the miracle of Jesus.",
             "16": "",
             "17": "",
             "18": "",
@@ -294,10 +295,10 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "The beginning of multiple languages is the beginning of different culutres. God's remedy to prolong the life of race, to prepare for the 1st coming of Jesus Christ to glory Him, prepare for the OT and NT with two more languages. Cross reference language is to serve as mirror to know selves.&nbsp;&nbsp;",
             "8": "",
-            "9": "",
-            "10": "",
+            "9": "The change of languages is the Beginning of cultures and nations. Since then man was born from culture, served and died for his culture. Culture is an integrated outlooking concept for love and hope and faith of peoples' life associated with their minds and hearts and strengths. God gave freedom for man to freely develope their loved culture and nation. But history proved that none of man developed culture and nation is perfect. The church is the only and final culture and kingdom for reunion of various cultures and nations. The church is the biblical culture associated with the kingdom of heaven. Culture and nation and worldview and language can be studied separately but in practice they are not dividable.ccc&nbsp;",
+            "10": "k",
             "11": "",
             "12": "",
             "13": "",
@@ -322,7 +323,7 @@ var _Max_struct={
             "32": ""
         },
         "12": {
-            "1": "",
+            "1": "<ol><li>Leave parents and United with wife <a href=\"#Gen2:24\">Gen2:24</a></li><li>Reborn. &nbsp;( <a href='#Jhn3:3'>Jhn3:3</a>)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
@@ -624,7 +625,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "<ol><li>Who is Ephron son of Zohar?</li></ol>",
             "9": "",
             "10": "",
             "11": "",
@@ -639,15 +640,15 @@ var _Max_struct={
             "20": ""
         },
         "24": {
-            "1": "",
+            "1": "<ol>\n\t<li>\"隐秘的事、是属耶和华我们　神的、惟有明显的事、是永远属我们和我们子孙的、好叫我们遵行这律法上的一切话。\" (<a href=\"#Deu29:29\">Deu29:29</a> CUVS)</li>\n\t<li>What is the bless? to better understanding the blessing of God. (a) Time: eternal vs temporary. The promise of God never change.&nbsp;&nbsp;(b) Range: human salvation (all nations) vs personal blessing.&nbsp; (c)Vision: visible vs invisible (d)Intellectual: known vs unknown (e)Spiritual: earthly vs heavenly.&nbsp;慈爱诚实</li>\n\t<li>Chinese love blessing (hear,watch, decorating) But don’t know what’s it, the origin.&nbsp;</li><li><li>\"倘若亚伯拉罕是因行为称义、就有可夸的．只是在　神面前并无可夸。\" (<a href='#Rom4:2'>Rom4:2</a> CUVS)&nbsp;</li><li>\"经上说甚么呢．说、『亚伯拉罕信　神、这就算为他的义。』\" (<a href='#Rom4:3'>Rom4:3</a> CUVS)&nbsp;</li></li>\n</ol>",
             "2": "",
-            "3": "",
+            "3": "<ol><li>Why Canaanites are cursed by Noah. (Why God's love/grace?)&nbsp;</li><li>Cannaanites in OT, Pharisees in NT.&nbsp;</li><li>Missionology: Christians should not marry non-Christian.&nbsp;&nbsp;<a href=\"#Rom12:2\">Rom12:2</a>)</li><li>In general, but not absolute.&nbsp;</li><li>Abraham's obscure and&nbsp;explicit.&nbsp;</li><li>How Abraham loved his son? What is the most important thing?</li><li>--</li></ol>",
             "4": "",
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": "",
+            "8": "<ol><li>Christian: once reborn, never go back. If unwilling to follow, the promise will be released.&nbsp;</li><li>Chinese:衣锦还乡 光宗耀祖, love mother land. Miss homeland思乡情怀patriotic education. 我和我的祖国。</li><li>Today: Chinese people are the Canaan land. Chinese culture is the canaanites. Our mission is to enter into it to take to own it.&nbsp;</li></ol>",
+            "9": "<ol>\n\t<li>Story: Abraham and servant conversation, background.&nbsp;</li><li>Prophecy: near predicting</li><li>Mission: mission relay</li><li>Promise:&nbsp;</li><li>Blessing: faith and blessing are indivisible.&nbsp;</li><li>Vision: 异象</li><li>Gospel：Jesus</li></ol><div><br></div><ol><li>One mission: find a wife for son. God's mission became Abr's mission became servant's mission. Will mission success?</li>\n\t<li>Marriage: Significance: (1) effect&nbsp;happiness of life,(2)&nbsp;family and offspring, race&nbsp;(3) the mission of God.&nbsp;&nbsp;Marriage is one of the sweet but most difficult and dangerous missions: Leo Tolstoy's novel Anna Karenina is: \"Happy families are all alike; every unhappy family is unhappy in its own way.\" because (a) matching period is short. (b) one-time, one-way ticket: once missed, missed forever; no triage. Every one had&nbsp;good expect and different layers of&nbsp;conditions, like health, wealth, degree, status, name, power, beauty, etc.</li>\n\t<li>What conditions? Ab (a) target—bottom line is&nbsp;no marriage&nbsp;with Canaanite, top goal is from home town family. (b) method—no turning back in person, no face to face interview. For a middleman, it is a mission impossible.&nbsp;&nbsp;</li>\n\t<li>How important?Ab most important mission: 3</li>\n\t<li>then, Why didn't Abraham go himself.</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>A</li>\n\t<li>&nbsp;</li>\n</ol>",
             "10": "",
             "11": "",
             "12": "",
@@ -662,7 +663,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<div>雅列<img alt=\"Abraham's family tree\" height=\"170\" sizes=\"(max-width: 100px) 50vw, 100px\" src=\"http://www.coffschristadelphians.org/2015/famtreepic.JPG\" /></div>",
             "25": "",
             "26": "",
             "27": "",
@@ -688,7 +689,7 @@ var _Max_struct={
             "47": "",
             "48": "",
             "49": "",
-            "50": "",
+            "50": "<ol><li>--<a id=\"247\" class=\"tx txCUVS hiliVrsTxt\" style=\"color: rgb(255, 255, 255);\">说好说歹</a></li></ol>",
             "51": "",
             "52": "",
             "53": "",
@@ -705,7 +706,7 @@ var _Max_struct={
             "64": "",
             "65": "",
             "66": "",
-            "67": ""
+            "67": "<ol>\n\t<li>In Bible, no concept of coincidence, chance, opportunity. 偶然,机遇,巧合,机会,不料.&nbsp;Chinese beautiful/attractive story books are&nbsp;无巧不成书. Based on&nbsp;athesim man-made concepts, Buddhism develops 机缘, 缘份. 前世之因,后世之果.因缘果报, 婚姻=&gt;姻缘.&nbsp; These concepts deeply roots in human soul unwittingly. Behind it, its ultimate purpose is to lead people away from God. Its secret goal is &quot;bring down my gray hairs with sorrow to Sheol&quot;.&nbsp;<a>(</a><a href=\"#Gen42:38\">Gen42:38</a>,<a href=\"#Gen44:29\">Gen44:29</a>,<a href=\"#Gen44:31\">Gen44:31</a>&nbsp;ESV)&nbsp;<a id=\"6\">悲悲惨惨的下阴间. With Jesus, no liar/evil trick.</a>&nbsp; The Bible leads to Eternal life.</li>\n\t<li><a id=\"187\">慈爱诚实</a><a>steadfast love and his faithfulness (Esv)&nbsp;kindness and faithfulness (niv) (</a><a href=\"#Gen24:27\">Gen24:27</a>, <a href=\"#Gen24:49\">Gen24:49</a>)&nbsp;&nbsp;The savant of Ab. Elohem YHWY. Family: YHWY.&nbsp;&nbsp;He was blessed through Ab--part of Promise/Bless.</li>\n\t<li>Promis/Bless never fail. Blessing (a) past (b) present (c) future [promise, covenant, prephecy] including: near, mid-term, long-term.&nbsp;&nbsp;</li>\n\t<li>Short-term: like&nbsp;the last Passover feast of Jesus.&nbsp;(<a href=\"#Luk22:11\">Luk22:11</a>-<a href=\"#Luk22:13\">Luk22:13</a>)<br />\n\tMid-term: Jacob/Joseph in Egypt.(<a href=\"#Gen15:13\">Gen15:13</a>)&nbsp;<br />\n\tLong-Term: Jesus. Future-tense: Advent of Jesus.&nbsp;&nbsp;</li>\n\t<li>-</li>\n\t<li>-gcc</li>\n\t<li>-jj</li>\n\t<li>Marriage Freedom vs obedience of God.&nbsp;</li>\n\t<li>&nbsp;</li>\n\t<li>Abraham believed in God love son. Abraham&rsquo;s love son &nbsp;differs fr worldly. Son inherited his heritage and life. He is obscure Jesus. In NT times, son is made clear by Jesus. &nbsp;(<a href=\"#Jhn8:56\">Jhn8:56</a>) anyone who had the son had eternal life. <a href=\"#1Jn5:12\">1Jn5:12</a>. Biological son is not needed.&nbsp;(<a href=\"#Mat12:50\">Mat12:50</a>) Who is my mother? Anyone who follows Him is his brother and sister.&nbsp;</li>\n</ol>\n\n<div>&nbsp;</div>\n\n<div><img src=\"https://wdingbox.github.io/bible_ref/img/beer-lahai-roi_map2.jpg\" width=\"100\" /></div>\n\n<div>&nbsp;</div>\n\n<div><img alt=\"Abraham's family tree\" class=\"hundred\" height=\"70\" src=\"http://www.coffschristadelphians.org/2015/famtreepic.JPG\" width=\"100\" /></div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<ol>\n\t<li>The&nbsp;</li>\n\t<li><img alt=\"\" height=\"70\" src=\"https://sites.suffolk.edu/bible/files/2012/02/Abraham-tree1.gif\" width=\"100\" /></li>\n</ol>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>\n\n<div>&nbsp;</div>"
         },
         "25": {
             "1": "",
@@ -1023,8 +1024,7 @@ var _Max_struct={
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
-            "33": ""
+            "32": ""
         },
         "33": {
             "1": "",
@@ -1826,11 +1826,7 @@ var _Max_struct={
             "22": "",
             "23": "",
             "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": ""
+            "25": ""
         },
         "8": {
             "1": "",
@@ -2212,7 +2208,7 @@ var _Max_struct={
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": " 1. Hide. 2. Take as owners   3. Glory self. Without thanksgiving. ",
             "16": "",
             "17": "",
             "18": "",
@@ -2261,8 +2257,7 @@ var _Max_struct={
             "33": "",
             "34": "",
             "35": "",
-            "36": "",
-            "37": ""
+            "36": ""
         },
         "22": {
             "1": "",
@@ -3048,14 +3043,7 @@ var _Max_struct={
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": ""
+            "19": ""
         },
         "6": {
             "1": "",
@@ -4543,22 +4531,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": ""
+            "13": ""
         },
         "18": {
             "1": "",
@@ -4806,8 +4779,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": ""
+            "18": ""
         },
         "26": {
             "1": "",
@@ -4992,8 +4964,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
-            "17": ""
+            "16": ""
         },
         "31": {
             "1": "",
@@ -5659,8 +5630,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": ""
+            "18": ""
         },
         "14": {
             "1": "",
@@ -5915,8 +5885,7 @@ var _Max_struct={
             "22": "",
             "23": "",
             "24": "",
-            "25": "",
-            "26": ""
+            "25": ""
         },
         "24": {
             "1": "",
@@ -6080,8 +6049,7 @@ var _Max_struct={
             "65": "",
             "66": "",
             "67": "",
-            "68": "",
-            "69": ""
+            "68": ""
         },
         "29": {
             "1": "",
@@ -8349,8 +8317,7 @@ var _Max_struct={
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
-            "16": ""
+            "15": ""
         },
         "22": {
             "1": "",
@@ -8430,8 +8397,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "25": {
             "1": "",
@@ -9178,8 +9144,7 @@ var _Max_struct={
             "40": "",
             "41": "",
             "42": "",
-            "43": "",
-            "44": ""
+            "43": ""
         },
         "20": {
             "1": "",
@@ -9543,21 +9508,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": ""
+            "18": ""
         },
         "6": {
             "1": "",
@@ -10228,8 +10179,7 @@ var _Max_struct={
             "50": "",
             "51": "",
             "52": "",
-            "53": "",
-            "54": ""
+            "53": ""
         }
     },
     "2Ki": {
@@ -10593,8 +10543,7 @@ var _Max_struct={
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
-            "22": ""
+            "21": ""
         },
         "13": {
             "1": "",
@@ -11215,22 +11164,7 @@ var _Max_struct={
             "23": "",
             "24": "",
             "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": ""
+            "26": ""
         },
         "6": {
             "1": "",
@@ -11550,8 +11484,7 @@ var _Max_struct={
             "37": "",
             "38": "",
             "39": "",
-            "40": "",
-            "41": ""
+            "40": ""
         },
         "13": {
             "1": "",
@@ -11794,8 +11727,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": ""
+            "18": ""
         },
         "23": {
             "1": "",
@@ -12041,8 +11973,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "2": {
             "1": "",
@@ -12330,8 +12261,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "14": {
             "1": "",
@@ -13291,13 +13221,7 @@ var _Max_struct={
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": ""
+            "32": ""
         },
         "4": {
             "1": "",
@@ -13540,8 +13464,7 @@ var _Max_struct={
             "36": "",
             "37": "",
             "38": "",
-            "39": "",
-            "40": ""
+            "39": ""
         },
         "11": {
             "1": "",
@@ -14951,15 +14874,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": ""
+            "24": ""
         },
         "41": {
             "1": "",
@@ -15027,7 +14942,7 @@ var _Max_struct={
             "6": ""
         },
         "2": {
-            "1": "",
+            "1": "@kk",
             "2": "",
             "3": "",
             "4": "",
@@ -15036,7 +14951,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "@",
             "11": "",
             "12": ""
         },
@@ -15048,8 +14963,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": ""
+            "8": ""
         },
         "4": {
             "1": "",
@@ -15059,8 +14973,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": ""
+            "8": ""
         },
         "5": {
             "1": "",
@@ -15074,8 +14987,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "6": {
             "1": "",
@@ -15087,8 +14999,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
-            "11": ""
+            "10": ""
         },
         "7": {
             "1": "",
@@ -15107,8 +15018,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "8": {
             "1": "",
@@ -15119,8 +15029,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
-            "10": ""
+            "9": ""
         },
         "9": {
             "1": "",
@@ -15142,8 +15051,7 @@ var _Max_struct={
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
-            "21": ""
+            "20": ""
         },
         "10": {
             "1": "",
@@ -15182,8 +15090,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": ""
+            "8": ""
         },
         "13": {
             "1": "",
@@ -15289,8 +15196,7 @@ var _Max_struct={
             "47": "",
             "48": "",
             "49": "",
-            "50": "",
-            "51": ""
+            "50": ""
         },
         "19": {
             "1": "",
@@ -15306,8 +15212,7 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
-            "15": ""
+            "14": ""
         },
         "20": {
             "1": "",
@@ -15318,8 +15223,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
-            "10": ""
+            "9": ""
         },
         "21": {
             "1": "",
@@ -15334,8 +15238,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "22": {
             "1": "",
@@ -15368,8 +15271,7 @@ var _Max_struct={
             "28": "",
             "29": "",
             "30": "",
-            "31": "",
-            "32": ""
+            "31": ""
         },
         "23": {
             "1": "",
@@ -15481,8 +15383,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "31": {
             "1": "",
@@ -15508,8 +15409,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
-            "25": ""
+            "24": ""
         },
         "32": {
             "1": "",
@@ -15522,8 +15422,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "33": {
             "1": "",
@@ -15537,7 +15436,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "The nation whose God is the Lord is the nation of kingdom of God. ",
             "13": "",
             "14": "",
             "15": "",
@@ -15571,8 +15470,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "35": {
             "1": "",
@@ -15616,8 +15514,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "37": {
             "1": "",
@@ -15683,8 +15580,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "39": {
             "1": "",
@@ -15699,8 +15595,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "40": {
             "1": "",
@@ -15719,8 +15614,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "41": {
             "1": "",
@@ -15735,8 +15629,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "42": {
             "1": "",
@@ -15749,8 +15642,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "43": {
             "1": "",
@@ -15785,8 +15677,7 @@ var _Max_struct={
             "23": "",
             "24": "",
             "25": "",
-            "26": "",
-            "27": ""
+            "26": ""
         },
         "45": {
             "1": "",
@@ -15805,8 +15696,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "46": {
             "1": "",
@@ -15819,8 +15709,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "47": {
             "1": "",
@@ -15831,8 +15720,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
-            "10": ""
+            "9": ""
         },
         "48": {
             "1": "",
@@ -15848,8 +15736,7 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
-            "15": ""
+            "14": ""
         },
         "49": {
             "1": "",
@@ -15871,8 +15758,7 @@ var _Max_struct={
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
-            "21": ""
+            "20": ""
         },
         "50": {
             "1": "",
@@ -15918,9 +15804,7 @@ var _Max_struct={
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
-            "20": "",
-            "21": ""
+            "19": ""
         },
         "52": {
             "1": "",
@@ -15931,9 +15815,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
-            "10": "",
-            "11": ""
+            "9": ""
         },
         "53": {
             "1": "",
@@ -15941,8 +15823,7 @@ var _Max_struct={
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
-            "7": ""
+            "6": ""
         },
         "54": {
             "1": "",
@@ -15951,9 +15832,7 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
-            "8": "",
-            "9": ""
+            "7": ""
         },
         "55": {
             "1": "",
@@ -15978,8 +15857,7 @@ var _Max_struct={
             "20": "",
             "21": "",
             "22": "",
-            "23": "",
-            "24": ""
+            "23": ""
         },
         "56": {
             "1": "",
@@ -15994,8 +15872,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "57": {
             "1": "",
@@ -16008,8 +15885,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "58": {
             "1": "",
@@ -16022,8 +15898,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "59": {
             "1": "",
@@ -16042,8 +15917,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "60": {
             "1": "",
@@ -16057,9 +15931,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": "",
-            "14": ""
+            "12": ""
         },
         "61": {
             "1": "",
@@ -16069,8 +15941,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
-            "9": ""
+            "8": ""
         },
         "62": {
             "1": "",
@@ -16084,8 +15955,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "63": {
             "1": "",
@@ -16098,8 +15968,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
-            "12": ""
+            "11": ""
         },
         "64": {
             "1": "",
@@ -16111,8 +15980,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
-            "11": ""
+            "10": ""
         },
         "65": {
             "1": "",
@@ -16127,8 +15995,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "66": {
             "1": "",
@@ -16159,8 +16026,7 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
-            "8": ""
+            "7": ""
         },
         "68": {
             "1": "",
@@ -16197,8 +16063,7 @@ var _Max_struct={
             "32": "",
             "33": "",
             "34": "",
-            "35": "",
-            "36": ""
+            "35": ""
         },
         "69": {
             "1": "",
@@ -16236,16 +16101,14 @@ var _Max_struct={
             "33": "",
             "34": "",
             "35": "",
-            "36": "",
-            "37": ""
+            "36": ""
         },
         "70": {
             "1": "",
             "2": "",
             "3": "",
             "4": "",
-            "5": "",
-            "6": ""
+            "5": ""
         },
         "71": {
             "1": "",
@@ -16360,8 +16223,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
-            "11": ""
+            "10": ""
         },
         "76": {
             "1": "",
@@ -16375,8 +16237,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "77": {
             "1": "",
@@ -16398,8 +16259,7 @@ var _Max_struct={
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
-            "21": ""
+            "20": ""
         },
         "78": {
             "1": "",
@@ -16509,8 +16369,7 @@ var _Max_struct={
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
-            "20": ""
+            "19": ""
         },
         "81": {
             "1": "",
@@ -16528,8 +16387,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
-            "17": ""
+            "16": ""
         },
         "82": {
             "1": "",
@@ -16559,8 +16417,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": ""
+            "18": ""
         },
         "84": {
             "1": "",
@@ -16574,8 +16431,7 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
-            "13": ""
+            "12": ""
         },
         "85": {
             "1": "",
@@ -16590,8 +16446,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "86": {
             "1": "",
@@ -16639,8 +16494,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": ""
+            "18": ""
         },
         "89": {
             "1": "",
@@ -16694,8 +16548,7 @@ var _Max_struct={
             "49": "",
             "50": "",
             "51": "",
-            "52": "",
-            "53": ""
+            "52": ""
         },
         "90": {
             "1": "",
@@ -16749,8 +16602,7 @@ var _Max_struct={
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
-            "16": ""
+            "15": ""
         },
         "93": {
             "1": "",
@@ -16893,8 +16745,7 @@ var _Max_struct={
             "25": "",
             "26": "",
             "27": "",
-            "28": "",
-            "29": ""
+            "28": ""
         },
         "103": {
             "1": "",
@@ -17112,8 +16963,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "109": {
             "1": "",
@@ -17698,8 +17548,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "141": {
             "1": "",
@@ -17720,8 +17569,7 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
-            "8": ""
+            "7": ""
         },
         "143": {
             "1": "",
@@ -18915,8 +18763,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
-            "17": ""
+            "16": ""
         },
         "5": {
             "1": "",
@@ -19191,8 +19038,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "8": {
             "1": "",
@@ -19401,8 +19247,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "9": {
             "1": "",
@@ -19410,7 +19255,7 @@ var _Max_struct={
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "在马太福音:他是弥赛亚;<br>在马可福音:他是奇妙的仆人;<br>在路加福音:他是人子<br>在约翰福音:他是神子;&nbsp;&nbsp;<br>",
             "7": "",
             "8": "",
             "9": "",
@@ -19926,8 +19771,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
-            "25": ""
+            "24": ""
         },
         "34": {
             "1": "",
@@ -20883,8 +20727,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
-            "23": ""
+            "22": ""
         },
         "9": {
             "1": "",
@@ -22829,12 +22672,7 @@ var _Max_struct={
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": ""
+            "32": ""
         },
         "22": {
             "1": "",
@@ -23054,8 +22892,7 @@ var _Max_struct={
             "22": "",
             "23": "",
             "24": "",
-            "25": "",
-            "26": ""
+            "25": ""
         },
         "29": {
             "1": "",
@@ -23757,77 +23594,7 @@ var _Max_struct={
             "27": "",
             "28": "",
             "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": "",
-            "53": "",
-            "54": "",
-            "55": "",
-            "56": "",
-            "57": "",
-            "58": "",
-            "59": "",
-            "60": "",
-            "61": "",
-            "62": "",
-            "63": "",
-            "64": "",
-            "65": "",
-            "66": "",
-            "67": "",
-            "68": "",
-            "69": "",
-            "70": "",
-            "71": "",
-            "72": "",
-            "73": "",
-            "74": "",
-            "75": "",
-            "76": "",
-            "77": "",
-            "78": "",
-            "79": "",
-            "80": "",
-            "81": "",
-            "82": "",
-            "83": "",
-            "84": "",
-            "85": "",
-            "86": "",
-            "87": "",
-            "88": "",
-            "89": "",
-            "90": "",
-            "91": "",
-            "92": "",
-            "93": "",
-            "94": "",
-            "95": "",
-            "96": "",
-            "97": "",
-            "98": "",
-            "99": "",
-            "100": ""
+            "30": ""
         },
         "4": {
             "1": "",
@@ -23929,8 +23696,7 @@ var _Max_struct={
             "25": "",
             "26": "",
             "27": "",
-            "28": "",
-            "29": ""
+            "28": ""
         },
         "7": {
             "1": "",
@@ -24104,117 +23870,6 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": ""
-        },
-        "13": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": "",
-            "44": "",
-            "45": "",
-            "46": "",
-            "47": "",
-            "48": "",
-            "49": "",
-            "50": "",
-            "51": "",
-            "52": "",
-            "53": "",
-            "54": "",
-            "55": "",
-            "56": "",
-            "57": "",
-            "58": "",
-            "59": "",
-            "60": "",
-            "61": "",
-            "62": "",
-            "63": "",
-            "64": ""
-        },
-        "14": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": "",
-            "25": "",
-            "26": "",
-            "27": "",
-            "28": "",
-            "29": "",
-            "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
-            "35": "",
-            "36": "",
-            "37": "",
-            "38": "",
-            "39": "",
-            "40": "",
-            "41": "",
-            "42": "",
-            "43": ""
         }
     },
     "Hos": {
@@ -24254,9 +23909,7 @@ var _Max_struct={
             "20": "",
             "21": "",
             "22": "",
-            "23": "",
-            "24": "",
-            "25": ""
+            "23": ""
         },
         "3": {
             "1": "",
@@ -24414,8 +24067,7 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
-            "15": ""
+            "14": ""
         },
         "13": {
             "1": "",
@@ -24444,8 +24096,7 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
-            "10": ""
+            "9": ""
         }
     },
     "Joe": {
@@ -24506,29 +24157,6 @@ var _Max_struct={
             "32": ""
         },
         "3": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": ""
-        },
-        "4": {
             "1": "",
             "2": "",
             "3": "",
@@ -24773,8 +24401,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
-            "11": ""
+            "10": ""
         },
         "3": {
             "1": "",
@@ -24863,8 +24490,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "5": {
             "1": "",
@@ -24891,7 +24517,7 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "what is good? ----------to do justly (to me) ------to love mercy (to others) -----to walk humbly with God (to God) --------Chinese buddhist mixed good, bearing, authentic. Without God, Jesus Christ, nothing can be good (LeiFeng); bearing is bittering; authentic is big lying. (LiuXun)---------------It is immediately clear that the Latin and German derivations convey two quite different meanings and moods, even though they translate identical NT Greek words. Politicians and social commentators will argue for a just society, but rarely will they plead for a righteous society. And a magistrate is expected to be just but not necessarily righteous. Justice seems to apply to law and public life, whereas righteousness appears to apply to the private sphere. (http://www.ethos.org.au/online-resources/engage-mail/justice-and-righteousness) ",
             "9": "",
             "10": "",
             "11": "",
@@ -24955,8 +24581,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": ""
+            "13": ""
         },
         "3": {
             "1": "",
@@ -25186,11 +24811,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": ""
+            "13": ""
         },
         "3": {
             "1": "",
@@ -25218,12 +24839,7 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": ""
+            "14": ""
         },
         "5": {
             "1": "",
@@ -25453,13 +25069,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": "",
-            "20": "",
-            "21": "",
-            "22": "",
-            "23": "",
-            "24": ""
+            "18": ""
         },
         "4": {
             "1": "",
@@ -25472,7 +25082,7 @@ var _Max_struct={
     },
     "Mat": {
         "1": {
-            "1": "",
+            "1": "mt=28,",
             "2": "",
             "3": "",
             "4": "",
@@ -25625,7 +25235,7 @@ var _Max_struct={
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "Loud.&nbsp;",
             "7": "",
             "8": "",
             "9": "",
@@ -25778,7 +25388,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "https://www.ccel.org/ccel/barnes/ntnotes.iv.x.xvi.html?highlight=hieroglyph#highlightThe Egyptians used the serpent in their hieroglyphics as a symbol of wisdom. Christ directed his followers to imitate the serpent, that was in its caution in avoiding danger.  ",
             "17": "",
             "18": "",
             "19": "",
@@ -25814,11 +25424,11 @@ var _Max_struct={
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "Y",
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "To know the kingdom of heaven. —————to know, to love. To hold of , to enter the kingdom of heaven. ——- to know the world the culture in order to know kingdom of heaven. ——————to study to think to understand the will of God is what we need to struggle. Once you know the will of God, obey the will of God. ",
             "13": "",
             "14": "",
             "15": "",
@@ -25986,7 +25596,7 @@ var _Max_struct={
             "33": "",
             "34": "",
             "35": "",
-            "36": ""
+            "36": "Go to America for coating. "
         },
         "15": {
             "1": "",
@@ -26047,7 +25657,7 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "----ἐκκλησία, 118x, a gathering of citizens called out from their homes into some public place, an assembly----- catholic (derived via Late Latin catholicus, from the Greek adjective καθολικός (katholikos), meaning \"universal\") from the Greek phrase καθόλου (katholou), meaning \"on the whole\", \"according to the whole\" or \"in general\",  The term Catholic (usually written with uppercase C in English) was first used in the early 2nd century to indicate Christendom as a whole.[5] In the context of Christian ecclesiology, it has a rich history and several usages.  The earliest evidence of the use of that term is the Letter to the Smyrnaeans that Ignatius of Antioch wrote in about 108 to Christians in Smyrna. ----------\"Church\" comes from the Old English and German word pronounced \"kirche.\" In Scotland, it was \"kirk.\" In the earlier Greek It was pronounced \"ku-ri-a-kos\" or \"ku-ri-a-kon.\" As you can see, this word doesn't even resemble the Greek word \"ecclesia\" whose place it has usurped. The meaning of \"Ku-ri-a-kos\" is understood by its root: \"Ku- ri-os,\" which means \"lord.\" Thus, \"kuriakos\" (i.e., \"church\") means \"pertaining to the lord.\" It refers to something that pertains to, or belongs to, a lord. The Greek \"kuriakos\" eventually came to be used in Old English form as \"cirice\" (Kee-ree-ke), then \"churche\" (kerke), and eventually \"church\" in its traditional pronunciation. A church, then, is correctly something that \"pertains to, or belongs to, a lord.\". In plain English, church is  a building used for public Christian worship, started in 300. ---------from eccleisa to catholic to church.------------------from its written, graphi, mytre (witness), scripture, New Testament (200 AD)  the Bible (1600) ",
             "19": "",
             "20": "",
             "21": "",
@@ -26212,7 +25822,7 @@ var _Max_struct={
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "fig-leaf-fruit-wither=&gt;Gen3:7-cover;&nbsp; (guilt-shame-fear) (excuse-hide-cover)-die-tempt-",
             "20": "",
             "21": "",
             "22": "",
@@ -26613,7 +26223,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "Satan is anti-Christ; wild animals present the pagans or Gentiles. Angels represents the God's providences. ",
             "14": "",
             "15": "",
             "16": "",
@@ -27304,7 +26914,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "B",
             "17": "",
             "18": "",
             "19": "",
@@ -27846,9 +27456,9 @@ var _Max_struct={
         },
         "11": {
             "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
+            "2": "Types of prayer. Short term urgent.&nbsp;",
+            "3": "Hinder of prayer    Cultural. Faith. Shame. Else",
+            "4": "test",
             "5": "",
             "6": "",
             "7": "",
@@ -27864,10 +27474,10 @@ var _Max_struct={
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
+            "20": "The meaning and purpose of miracles is to for the kingdom of heave. The miracle is the sign of the KOG. ",
             "21": "",
             "22": "",
-            "23": "",
+            "23": "Who is our friend and who is our enemy? this is the most important issues for every Christian. ----------Biblical Dualism. -------One God, Dualism, Three Milestones, Four Processes(Creation, Falling, Redemption,Sanctification). ",
             "24": "",
             "25": "",
             "26": "",
@@ -28429,12 +28039,12 @@ var _Max_struct={
             "28": "",
             "29": "",
             "30": "",
-            "31": "",
-            "32": "",
-            "33": "",
-            "34": "",
+            "31": "A",
+            "32": "A",
+            "33": "A . ",
+            "34": "wisdom. good and bad.",
             "35": "",
-            "36": "",
+            "36": "As. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
             "37": "",
             "38": "",
             "39": "",
@@ -28514,9 +28124,9 @@ var _Max_struct={
     },
     "Jhn": {
         "1": {
-            "1": "",
+            "1": "[馬殊曼(Joshua Marshman) 1822]原始已有言, 而其言偕神,&nbsp; (https://bible.fhl.net/ob/nob.html?book=16)&nbsp;&nbsp;",
             "2": "",
-            "3": "",
+            "3": "d",
             "4": "",
             "5": "",
             "6": "",
@@ -28527,7 +28137,7 @@ var _Max_struct={
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "-The Word became man. The Word that was spoken must have a speaker, writer and thinker. God is the language creator and designer. Man is the user of God's language. ---any computer language must be designed by people through intelligence. ",
             "15": "",
             "16": "",
             "17": "",
@@ -28551,7 +28161,7 @@ var _Max_struct={
             "35": "",
             "36": "",
             "37": "",
-            "38": "",
+            "38": "Jesus's First Question==God's First Question in Gen.&lt;font color='red'&gt;Gen&lt;/font&gt;&nbsp;",
             "39": "",
             "40": "",
             "41": "",
@@ -28609,7 +28219,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "God's Purpose, Remedy . Thoroughly convinced in mind<br>Man's Problem, Response.&nbsp; &nbsp;Totally convinced in heart.&nbsp;<br>",
             "17": "",
             "18": "",
             "19": "",
@@ -28640,11 +28250,11 @@ var _Max_struct={
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "Samaria/woman were discriminated people.&nbsp;",
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "contextualizatin&nbsp;",
             "14": "",
             "15": "",
             "16": "",
@@ -28652,7 +28262,7 @@ var _Max_struct={
             "18": "",
             "19": "",
             "20": "",
-            "21": "",
+            "21": "faith-belief-trusthope-love-witness------0",
             "22": "",
             "23": "",
             "24": "",
@@ -28665,15 +28275,15 @@ var _Max_struct={
             "31": "",
             "32": "",
             "33": "",
-            "34": "",
+            "34": "to finish His work:&nbsp;I have fought the good fight, I have finished the race, I have kept the faith. (2Ti4:7)&nbsp;",
             "35": "",
             "36": "",
-            "37": "",
-            "38": "",
+            "37": "teamwork.&nbsp;",
+            "38": "missionary is fun--we are reaping what Jesus had paid.&nbsp;",
             "39": "",
             "40": "",
             "41": "",
-            "42": "",
+            "42": "return to back office.&nbsp;",
             "43": "",
             "44": "",
             "45": "",
@@ -28861,8 +28471,7 @@ var _Max_struct={
             "49": "",
             "50": "",
             "51": "",
-            "52": "",
-            "53": ""
+            "52": ""
         },
         "8": {
             "1": "",
@@ -28975,7 +28584,7 @@ var _Max_struct={
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "the entry of the knowledge and the kingdom of Heaven.",
             "8": "",
             "9": "",
             "10": "",
@@ -29442,10 +29051,10 @@ var _Max_struct={
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
+            "6": "Israel wants to restore the kingdom of Israel; Chinese wants restore kingdom of Chinese; each culture wants to restore its culture; But that’s not God wanted. God wanted to restore his people; that is the kingdom of God. And the kingdom of God has already been being restored. Why did people don’t know.?",
+            "7": "Knowledge is not power. Some knowledge we need know; but some we need not know. To know that is not allowed to know is death. Gen2. ",
+            "8": "It is not by knowledge to do the mission of God. But by the Holy Spirit. It is Bible based study not topic based study. Topic based study is the beginning of the heresy. ",
+            "9": "Many people did not know the Holy Spirit. When things passed away it is like that. ",
             "10": "",
             "11": "",
             "12": "",
@@ -29999,7 +29608,7 @@ var _Max_struct={
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "Amos 9:11, Amos 9:12",
             "17": "",
             "18": "",
             "19": "",
@@ -30416,7 +30025,7 @@ var _Max_struct={
             "27": "",
             "28": "",
             "29": "",
-            "30": "",
+            "30": "Berenice, daughter of King Agrippa I, younger sister of Agrippa II, queen of Chalcis, https://jwa.org/encyclopedia/article/berenice ",
             "31": "",
             "32": ""
         },
@@ -31725,7 +31334,7 @@ var _Max_struct={
     },
     "Gal": {
         "1": {
-            "1": "",
+            "1": "---yyppp jj k k fdi asdf sdf sdf sf safsdf sadf sadf sa dfsa saf ",
             "2": "",
             "3": "",
             "4": "",
@@ -31850,7 +31459,7 @@ var _Max_struct={
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "freedom is good for the mission of God. not for the will of flesh. The world that God created was good, we enjoy the worldly love but the good has purpose--it is for the mission of God..&nbsp;<br><br>",
             "14": "",
             "15": "",
             "16": "",
@@ -33114,7 +32723,7 @@ var _Max_struct={
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
+            "20": "any one as long as he is alive, he has action. the action is either glory God or against Him. There is no middle ground.&nbsp;",
             "21": "",
             "22": "",
             "23": "",
@@ -33186,7 +32795,7 @@ var _Max_struct={
     },
     "1Pe": {
         "1": {
-            "1": "",
+            "1": "Foreigners, sojourner, visi",
             "2": "",
             "3": "",
             "4": "",
@@ -33222,7 +32831,7 @@ var _Max_struct={
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "Christian identity; remove national pride, racial pride; ",
             "11": "",
             "12": "",
             "13": "",
@@ -33230,14 +32839,14 @@ var _Max_struct={
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
-            "19": "",
+            "18": "Types of master. Boss, president, husband, parents, guests, friend.  Coworker  A. Good B. Bad ==========Types of submission A. True  B. False 1) due to class struggle, persecution, threat, oppression, 2) shame, face. ",
+            "19": "Types of Chinese bearing. A.好汗不吃眼前亏 B. 君子报仇十年不晚. Revenge C. 忍气吞声 passive D 吃亏是佛 fool. ================How did Jesus bear?  21-24",
             "20": "",
-            "21": "",
+            "21": "Identity of Christian. ",
             "22": "",
             "23": "",
             "24": "",
-            "25": ""
+            "25": "18-25 ——-Title: submit bear follow Jesus. ———QA. As Comparing with what we learned, where and how does it differ to Chinese culture? ==========what’s your barriers? "
         },
         "3": {
             "1": "",
@@ -33303,7 +32912,7 @@ var _Max_struct={
     },
     "2Pe": {
         "1": {
-            "1": "",
+            "1": "compare with 1Peter 1:2 for differences of audience. \"Immediately the boy's father exclaimed, \"I do believe; help me overcome my unbelief!\"\" (Mak9:24 NIV)",
             "2": "",
             "3": "",
             "4": "",
@@ -33352,20 +32961,20 @@ var _Max_struct={
         "3": {
             "1": "",
             "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "9": "",
-            "10": "",
+            "3": "Gen 3:2 serpent said",
+            "4": "Similar words: it’s been 2000 years pasted it is still good. Scholars doubted the authors due to differences style. Gen3:3",
+            "5": "Example, 列子，杞人忧天. ",
+            "6": "Repeating the ot. ",
+            "7": "Different from ot. ",
+            "8": "Relativity’s theory ",
+            "9": "His love, patience mercy. ",
+            "10": "Jesus said so. ",
             "11": "",
             "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
+            "13": "Christian does not afraid of the end of day but expect it. ",
+            "14": "How to expect? Not sleep snap like waiting for a bus. ",
+            "15": "Example Paul. ",
+            "16": "Be careful the heresy during the waiting time. ",
             "17": "",
             "18": ""
         }
@@ -33506,10 +33115,10 @@ var _Max_struct={
     },
     "3Jn": {
         "1": {
-            "1": "",
+            "1": "sfd",
             "2": "",
-            "3": "",
-            "4": "",
+            "3": "@The only joy is Jesus and His people.&nbsp;",
+            "4": "@if my loved ones follow Him, i was very happy. it is not about Law virtual but joy.&nbsp;",
             "5": "",
             "6": "",
             "7": "",
@@ -33517,10 +33126,10 @@ var _Max_struct={
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "@there are four types of evidence most important: Truth, They, We and you.&nbsp;",
             "13": "",
-            "14": "",
-            "15": ""
+            "14": "@relationship btw them.",
+            "15": "@seeming worldly relationship, but inside is different!"
         }
     },
     "Jud": {
@@ -33786,8 +33395,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
-            "18": ""
+            "17": ""
         },
         "13": {
             "1": "",
