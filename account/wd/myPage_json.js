@@ -2,7 +2,7 @@ var _bnotes=
 {
     "Gen": {
         "1": {
-            "1": "<ol><li>--williamd</li><li>we</li></ol>",
+            "1": "<ol><li>--williamd</li><li>weid</li></ol>",
             "2": "<ol><li>--</li></ol>",
             "3": "1) Proverbs 8:30. 2) we plural 3) light is Jesus 4) spirit over water 1:2 and mat14:25",
             "4": "",
