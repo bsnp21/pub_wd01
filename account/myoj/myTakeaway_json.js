@@ -7,7 +7,7 @@ var _bnotes=
             "3": "1) Proverbs 8:30. 2) we plural 3) light is Jesus 4) spirit over water 1:2 and mat14:25",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>--</li></ol>",
             "7": "",
             "8": "",
             "9": "",
