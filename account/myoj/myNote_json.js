@@ -1016,7 +1016,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>Wrestle with God. Do not wrestle with evil.&nbsp;</li></ol>",
             "25": "",
             "26": "",
             "27": "",
