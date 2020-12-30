@@ -33233,7 +33233,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol>\n\t<li>Gold 1Pe1:7</li>\n\t<li>Clothes Rev19:8. Purity&nbsp;</li>\n</ol>",
+            "18": "<ol>\n\t<li>Gold 1Pe1:7</li>\n\t<li>Clothes Rev19:8. Purity&nbsp;</li><li>Salve.&nbsp;</li>\n</ol>",
             "19": "",
             "20": "",
             "21": "",
