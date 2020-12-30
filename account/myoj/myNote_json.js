@@ -33188,7 +33188,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<div><br></div><ol><li>why can it be to forsaken the firs love.&nbsp;He will not forsake you.&nbsp;</li><li>Love 3G: gold, girl, glory. Can a Christian be lost?</li></ol>",
             "5": "",
             "6": "",
             "7": "",
