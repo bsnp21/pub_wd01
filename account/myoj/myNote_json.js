@@ -33188,7 +33188,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "<ol>\n\t<li>why can it be to forsaken the firs love.&nbsp;He will not forsake you.&nbsp;</li>\n\t<li>Love 3G: gold, girl, glory. Can a Christian be lost?</li>\n</ol>",
+            "4": "<ol>\n\t<li>why can it be to forsaken the firs love.&nbsp;He will not forsake you.&nbsp;</li>\n\t<li>&nbsp;Can a Christian be lost? 3G=Gold, girl, glory.</li><li>First love is true pure love. It’s a fool love. To be fool for you.&nbsp;</li><li>Knowledge increased; love is reduced.&nbsp;</li>\n</ol>",
             "5": "",
             "6": "",
             "7": "",
