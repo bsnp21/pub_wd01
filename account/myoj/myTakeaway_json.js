@@ -19893,7 +19893,7 @@ var _bnotes=
             "22": ""
         },
         "39": {
-            "1": "",
+            "1": "<ol><li>DA Carson called it as one of the saddest scripture in the Bible. 2020Chicago.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
