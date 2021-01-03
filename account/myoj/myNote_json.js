@@ -650,7 +650,7 @@ var _bnotes=
             "8": "\n<blockquote>\n<ol>\n\t<li>If she unwilling, still not go back. Why? God reliable but man unreliable. &nbsp;</li><li>how important not going back.&nbsp;</li><li>The answer why Abraham not go.&nbsp;</li>\n</ol>\n</blockquote>\n",
             "9": "<ol>\n\t<li>After being clear, swore an oath -- cautious/careful.&nbsp;认真,谨慎,诚实,忠诚. not the man&nbsp;敷衍应酬,不懂装懂,柳絮怕马,讨好主人,见风使舵,两面三刀.能偷就偷,心狠手毒.</li>\n</ol>",
             "10": "",
-            "11": "",
+            "11": "<ol><li>Carrying water was Women’s job.&nbsp;</li></ol>",
             "12": "\n<ol>\n\t<li>机会: success niv, Chinese atheism phrase.&nbsp;</li>\n</ol>\n",
             "13": "",
             "14": "",
