@@ -714,7 +714,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "<ol><li>Is Chinese oracles come from one of them? &nbsp;--</li></ol>",
+            "6": "<ol><li>Is Chinese oracles come from one of them? &nbsp;--</li><li>What’s difference between “giving gift” and “leaving everything”?</li></ol>",
             "7": "",
             "8": "",
             "9": "",
