@@ -3,7 +3,7 @@ var _bnotes=
     "Gen": {
         "1": {
             "1": "\n<ol>\n\t<li>I am alpha and omega.&nbsp;</li><li>mm</li>\n</ol>\n",
-            "2": "\n<ol>\n\t<li>--</li>\n\t<li>formless <a href=\"#Mat5:6\">Mat5:6</a></li>\n\t<li>invisible</li><li>Jesus walked on waters.&nbsp;(<a href=\"#Mat14:26\">Mat14:26</a>)&nbsp;(<a href=\"#Mak6:48\">Mak6:48</a>)&nbsp;(<a href=\"#Jhn6:19\">Jhn6:19</a>)&nbsp;</li><li>Triune: God, Spirit and Jesus.&nbsp;</li>\n</ol>\n",
+            "2": "\n<ol>\n\t<li>--</li>\n\t<li>formless&nbsp;</li>\n\t<li>invisible</li><li>Jesus walked on waters.&nbsp;(<a href=\"#Mat14:26\">Mat14:26</a>)&nbsp;(<a href=\"#Mak6:48\">Mak6:48</a>)&nbsp;(<a href=\"#Jhn6:19\">Jhn6:19</a>)&nbsp;</li><li>Triune: God, Spirit and Jesus.&nbsp;</li>\n</ol>\n",
             "3": "\n<ol>\n\t<li><a href=\"#Pro8:30\">Pro8:30</a>. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water 1:2 and mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
             "5": "",
