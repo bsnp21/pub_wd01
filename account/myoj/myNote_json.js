@@ -2,7 +2,7 @@ var _bnotes=
 {
     "Gen": {
         "1": {
-            "1": "\n<ol>\n\t<li>Jhn1:1&nbsp;</li><li>mm</li>\n</ol>\n",
+            "1": "\n<ol>\n\t<li>Jhn1:1 </li><li>mm</li>\n</ol>\n",
             "2": "\n<ol>\n\t<li>Water analog to trinity.&nbsp;</li>\n\t<li>formless Jhn1:1</li>\n\t<li>invisible</li><li>Jesus walked on waters.&nbsp;(Mat14:26)&nbsp;(Mak6:48)&nbsp;(Jhn6:19)&nbsp;</li><li>Triune: God, Spirit and Jesus.&nbsp;</li>\n</ol>\n",
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
