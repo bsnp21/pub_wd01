@@ -31794,7 +31794,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "<ol><li><a href=\"https://www.youtube.com/watch?v=VIxrGB6YIUQ&t=0m7s\">utube</a></li></ol>",
+            "15": "<ol><li><a href=\"https://www.youtube.com/watch?v=VIxrGB6YIUQ&t=0m7s\">utube</a> <a href=\"http://www.youtube.com/watch?v=VIxrGB6YIUQ&start=0m7s&end=0m15s\">youtube</a></li></ol>",
             "16": "",
             "17": "",
             "18": "",
