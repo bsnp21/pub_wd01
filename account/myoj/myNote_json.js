@@ -656,7 +656,7 @@ var _bnotes=
             "14": "",
             "15": "\n<ol>\n\t<li>不料: Occasionally? Chinese Atheism phrase.&nbsp;</li>\n</ol>\n",
             "16": "",
-            "17": "<ol><li>\"有一个撒玛利亚的妇人来打水．耶稣对他说、请你给我水喝。\" (<a href='#Jhn4:7'>Jhn4:7</a> CUVS)</li></ol>",
+            "17": "<ol><li>\"有一个撒玛利亚的妇人来打水．耶稣对他说、请你给我水喝。\" (Jhn4:7 CUVS)</li></ol>",
             "18": "",
             "19": "",
             "20": "",
