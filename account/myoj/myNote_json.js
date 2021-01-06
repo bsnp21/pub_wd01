@@ -668,7 +668,7 @@ var _bnotes=
             "26": "<ol><li>bowed down to the Lort not the people.&nbsp;</li><li>Why Abraham love and trust him.&nbsp;</li></ol>",
             "27": "\n<ol>\n\t<li>不断的以 慈爱诚实 待我主人</li>\n</ol>\n",
             "28": "",
-            "29": "<ol><li>Laban contrast Abraham <a href='#Gen14:23'>Gen14:23</a></li></ol>",
+            "29": "<ol><li>Laban contrast Abraham Gen14:23</li></ol>",
             "30": "",
             "31": "<ol><li>YHWY was well known in hometown, but they did not go out like Abraham.&nbsp;</li></ol>",
             "32": "",
