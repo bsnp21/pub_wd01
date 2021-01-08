@@ -18175,7 +18175,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li><li>\"A precise description for missionary of Abraham Gen12-Gen25.</li></li></ol>",
             "10": "",
             "11": "",
             "12": "",
