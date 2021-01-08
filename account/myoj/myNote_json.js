@@ -29314,7 +29314,7 @@ var _bnotes=
         },
         "8": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>Stephen is the Enoh in New Testament. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
