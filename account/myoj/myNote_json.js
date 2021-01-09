@@ -29605,7 +29605,7 @@ var _bnotes=
             "10": "<ol><li>A long history culture is a heavy yoke on our neck. </li><li>Parents put yoke on children. </li></ol>",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "<ol><li>James - Brother of Jesu. </li></ol>",
             "14": "",
             "15": "",
             "16": "Amos 9:11, Amos 9:12",
