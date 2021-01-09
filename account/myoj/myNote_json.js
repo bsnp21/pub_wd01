@@ -29602,7 +29602,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>A long history culture is a heavy yoke on our neck. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
