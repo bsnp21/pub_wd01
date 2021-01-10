@@ -731,7 +731,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "",
+            "23": "<ol><li>Everyone has two kingdoms in inside. </li></ol>",
             "24": "",
             "25": "",
             "26": "",
