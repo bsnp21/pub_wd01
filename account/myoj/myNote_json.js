@@ -753,7 +753,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>a Abimelech is a title of king. Not name of person. </li></ol>",
             "10": "",
             "11": "",
             "12": "",
