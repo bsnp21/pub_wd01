@@ -5,7 +5,7 @@ var localStorage = {
     "MostRecentSearchStrn": "[\"Beersheba\",\"别是巴\",\"Stephen\",\"St\",\"S\",\"Stev\",\"Steven\"]",
     "SelectedDocsList": "CUVS,NIV,KJV,ESV,H_G,_myNote,_myTakeaway",
     "FontSize": "16",
-    "#MemoryVerse": "[\"1Ts2:2\",\"Phl1:30\",\"Eph6:12\",\"2Co10:3\",\"Eph2:2\",\"1Ts4:17\",\"1Co9:26\",\"Pro8:22\",\"Col1:15\",\"Pro16:9\",\"1Co8:12\",\"Col2:23\",\"1Ti4:1\",\"Rom3:31\",\"Psm8:6\"]",
+    "#MemoryVerse": "[\"Psm8:6\",\"Rom3:31\",\"1Ti4:1\",\"Col2:23\",\"1Co8:12\",\"Pro16:9\",\"Col1:15\",\"Pro8:22\",\"1Co9:26\",\"1Ts4:17\",\"Eph2:2\",\"2Co10:3\",\"Eph6:12\",\"Phl1:30\",\"1Ts2:2\"]",
     "test": "1,2",
     "#RecentMarks": "[\"Gen26:9\",\"Gen25:23\",\"1Co8:12\",\"Col2:23\",\"1Ti4:1\",\"Rom3:31\",\"Act15:1\",\"Amo9:11\",\"Act15:16\",\"Act15:13\",\"Act15:10\",\"Psm8:6\",\"Act8:2\",\"Pro16:9\"]",
     "#RecentBooks": "[\"Gen1:1\",\"1Co1:1\",\"Col1:1\",\"1Ti1:1\",\"Phl1:1\",\"Rom1:1\",\"Amo1:1\",\"Act1:1\",\"Psm1:1\"]"
