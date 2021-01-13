@@ -30449,7 +30449,7 @@ var _bnotes=
         },
         "12": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>a change renew is a feature of truth.</li></ol>",
             "3": "",
             "4": "",
             "5": "",
