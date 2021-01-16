@@ -26203,7 +26203,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "<ol><li>The disciples,  the imperfect number of 11, with some doubted, but did the mission of God. It’s not the disciples doing the job but Jesus Himself was doing the mission of God. </li><li>The greatness of Jesus is not something that humans can fully understand. What we can do is simply to believe in Him and follow to His commands. </li><li>Faith in Him is the only equivalent we need to carry in the mission of God — the lightest burden we have in the world. Jesus said that we should not carry money and food and extra clothes. </li></ol>",
+            "17": "<ol><li>The disciples,  the imperfect number of 11, with some doubted, but were assigned for the great mission of God. It’s not the disciples doing the job but Jesus Himself was doing the mission of God. </li><li>The greatness of Jesus is not something that humans can fully understand. What we can do is simply to believe in Him and follow to His commands. </li><li>Faith in Him is the only equivalent we need to carry in the mission of God — the lightest burden we have in the world. Jesus said that we should not carry money and food and extra clothes. </li></ol>",
             "18": "",
             "19": "",
             "20": ""
