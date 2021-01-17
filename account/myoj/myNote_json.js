@@ -52,7 +52,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol><li>a helper refer to Jesus. </li></ol>",
+            "18": "<ol><li>a helper refer to Jesus. God created Adam but creator and creature cannot stand side by side. One is unlimited and one is limited. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
