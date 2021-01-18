@@ -55,7 +55,7 @@ var _bnotes=
             "18": "<ol><li>a helper refer to Jesus. God created Adam but creator and creature cannot stand side by side shoulder by shoulder. One is unlimited and one is limited even he is not sinner. </li><li>In Hebrew <a href=\"https://weekly.israelbiblecenter.com/the-unlikely-role-of-a-biblical-woman/?via=22c3dc4&utm_source=email&utm_medium=email&utm_campaign=EMAIL_ActiveCampaign_Lead_nurture_drip-%20The%20Unlikely%20Role%20of%20the%20Biblical%20Woman_Day28#22c3dc4\">ezer</a></li></ol>",
             "19": "",
             "20": "<ol><li>a name is important. It’s the beginning of human language. </li></ol>",
-            "21": "",
+            "21": "<ol><li>a sleep time is the time when the Lord work on man. </li></ol>",
             "22": "",
             "23": "",
             "24": "<ol><li>a process from helper to wife who refer to Jesus. </li><li>to parents refer to the world, but honor your parents. </li><li>This is before the fall. </li></ol>",
