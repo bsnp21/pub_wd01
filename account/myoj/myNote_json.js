@@ -58,7 +58,7 @@ var _bnotes=
             "21": "<ol><li>a sleep time is the time when the Lord work on man. </li></ol>",
             "22": "",
             "23": "",
-            "24": "<ol><li>a process from helper to wife who refer to Jesus. </li><li>to parents refer to the world, but honor your parents which is culture. </li><li>Leave parents to reborn </li><li>This is before the fall. </li></ol>",
+            "24": "<ol><li>a process from helper to wife who refer to Jesus. </li><li>to parents refer to the world, but honor your parents which is culture. </li><li>Leave parents to reborn even he was not sinned. </li><li>This is before the fall. </li></ol>",
             "25": ""
         },
         "3": {
