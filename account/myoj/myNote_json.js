@@ -25278,7 +25278,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "<ol><li>a narrow gate refers to the purity and holiness. Not something can be applied into everywhere. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
