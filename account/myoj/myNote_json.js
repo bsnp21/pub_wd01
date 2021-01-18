@@ -58,7 +58,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>a process from helper to wife who refer to Jesus. </li><li>to parents refer to the world, but honor your parents. </li><li>  </li></ol>",
             "25": ""
         },
         "3": {
