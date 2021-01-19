@@ -1,5 +1,5 @@
 var localStorage = {
-    "#RecentMarks": "[\"Mic1:8\",\"Isa28:18\",\"Gen1:1\",\"Mat7:13\",\"Mat8:21\",\"Mat8:19\",\"Mat6:18\",\"Gen2:18\",\"1Co10:13\",\"Tit2:11\",\"Mat16:19\",\"Col1:15\",\"Gen24:4\",\"Gen24:1\"]",
+    "#RecentMarks": "[\"Mic6:8\",\"Mic1:8\",\"Isa28:18\",\"Gen1:1\",\"Mat7:13\",\"Mat8:21\",\"Mat8:19\",\"Mat6:18\",\"Gen2:18\",\"1Co10:13\",\"Tit2:11\",\"Mat16:19\",\"Col1:15\",\"Gen24:4\",\"Gen24:1\"]",
     "MostRecentSearchFile": "CUVpy",
     "repositories": "[{\"repopath\":\"https://github.com/bsnp21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/bsno21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_wd01.git\",\"repodesc\":\"\",\"passcode\":\"3edcFDSA\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_wd.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_test.git\",\"passcode\":\"\",\"repodesc\":\"\"}]",
     "FontSize": "16",
@@ -8,5 +8,5 @@ var localStorage = {
     "#RecentBooks": "[\"Mic1:1\",\"Col1:1\",\"Gen1:1\",\"Tit1:1\",\"1Co1:1\",\"Act1:1\"]",
     "test": "1,2",
     "SelectedDocsList": "CUVS,NIV,ESV,KJV,CUVpy,_myTakeaway",
-    "#MemoryVerse": "[\"Mic1:8\",\"Isa28:16\",\"Isa28:15\",\"Psm8:6\",\"Rom3:31\",\"1Ti4:1\",\"Col2:23\",\"1Co8:12\",\"Pro16:9\",\"Col1:15\",\"Pro8:22\",\"1Co9:26\",\"1Ts4:17\",\"Eph2:2\",\"2Co10:3\",\"Eph6:12\",\"Phl1:30\",\"1Ts2:2\",\"Gen1:1\",\"1Co10:13\",\"Tit2:11\"]"
+    "#MemoryVerse": "[\"Mic6:8\",\"Tit2:11\",\"1Co10:13\",\"Gen1:1\",\"1Ts2:2\",\"Phl1:30\",\"Eph6:12\",\"2Co10:3\",\"Eph2:2\",\"1Ts4:17\",\"1Co9:26\",\"Pro8:22\",\"Col1:15\",\"Pro16:9\",\"1Co8:12\",\"Col2:23\",\"1Ti4:1\",\"Rom3:31\",\"Psm8:6\",\"Isa28:15\",\"Isa28:16\",\"Mic1:8\"]"
 }
