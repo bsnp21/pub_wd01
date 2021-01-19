@@ -1,12 +1,12 @@
 var localStorage = {
-    "#RecentMarks": "[\"Gen1:1\",\"Mat7:13\",\"Mat8:21\",\"Mat8:19\",\"Mat6:18\",\"Gen2:18\",\"1Co10:13\",\"Tit2:11\",\"Mat16:19\",\"Col1:15\",\"Gen24:4\",\"Gen24:1\"]",
-    "MostRecentSearchFile": "ESV",
+    "#RecentMarks": "[\"Isa28:18\",\"Gen1:1\",\"Mat7:13\",\"Mat8:21\",\"Mat8:19\",\"Mat6:18\",\"Gen2:18\",\"1Co10:13\",\"Tit2:11\",\"Mat16:19\",\"Col1:15\",\"Gen24:4\",\"Gen24:1\"]",
+    "MostRecentSearchFile": "CUVpy",
     "repositories": "[{\"repopath\":\"https://github.com/bsnp21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/bsno21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_wd01.git\",\"repodesc\":\"\",\"passcode\":\"3edcFDSA\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_wd.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},{\"repopath\":\"https://github.com/wdingbox/biblestudynote_pub_test.git\",\"passcode\":\"\",\"repodesc\":\"\"}]",
     "FontSize": "16",
-    "myNote": "{\"host\":\"52.87.154.78:7778\",\"url\":\"http://52.87.154.78:7778/\",\"api\":\"ApiBibleObj_write_Usr_BkcChpVrs_txt\",\"inp\":{\"usr\":{\"repopath\":\"https://github.com/bsnp21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},\"par\":{\"fnames\":[\"_myNote\"],\"inpObj\":{\"Mat\":{\"7\":{\"13\":\"<ol><li>a narrow gate refers to the purity and holiness. Not something can be applied into or syncretized everywhere. </li></ol>\"}}}}},\"m_src\":\"http://52.87.154.78:7778/ApiBibleObj_load_by_bibOj?inp=%7B%22usr%22%3A%7B%22repopath%22%3A%22https%3A%2F%2Fgithub.com%2Fbsnp21%2Fpub_wd01.git%22%2C%22passcode%22%3A%223edcFDSA%22%2C%22repodesc%22%3A%22%22%7D%2C%22par%22%3A%7B%22fnames%22%3A%5B%22CUVS%22%2C%22NIV%22%2C%22ESV%22%2C%22KJV%22%2C%22_myNote%22%2C%22_myTakeaway%22%5D%2C%22bibOj%22%3A%7B%22Mat%22%3A%7B%227%22%3A%7B%7D%7D%7D%2C%22Search%22%3Anull%7D%7D\"}",
-    "MostRecentSearchStrn": "[\"/Scribe/i\",\"Scribe\"]",
+    "myNote": "{\"host\":\"52.87.154.78:7778\",\"url\":\"http://52.87.154.78:7778/\",\"api\":\"ApiBibleObj_write_Usr_BkcChpVrs_txt\",\"inp\":{\"usr\":{\"repopath\":\"https://github.com/bsnp21/pub_wd01.git\",\"passcode\":\"3edcFDSA\",\"repodesc\":\"\"},\"par\":{\"fnames\":[\"_myNote\"],\"inpObj\":{\"Isa\":{\"28\":{\"18\":\"<ol><li>Jesus used scourge to drive out businessmen in the temple. </li></ol>\"}}}}},\"m_src\":\"http://52.87.154.78:7778/ApiBibleObj_load_by_bibOj?inp=%7B%22usr%22%3A%7B%22repopath%22%3A%22https%3A%2F%2Fgithub.com%2Fbsnp21%2Fpub_wd01.git%22%2C%22passcode%22%3A%223edcFDSA%22%2C%22repodesc%22%3A%22%22%7D%2C%22par%22%3A%7B%22fnames%22%3A%5B%22CUVS%22%2C%22NIV%22%2C%22ESV%22%2C%22KJV%22%2C%22_myNote%22%2C%22_myTakeaway%22%2C%22_myPrayer%22%5D%2C%22bibOj%22%3A%7B%22Isa%22%3A%7B%2228%22%3A%7B%7D%7D%7D%2C%22Search%22%3Anull%7D%7D\"}",
+    "MostRecentSearchStrn": "[\"bian zi\",\"zi\",\"/Bian zi/i\",\"Bian zi\",\"/Scribe/i\",\"Scribe\"]",
     "#RecentBooks": "[\"Act1:1\",\"Mat1:1\",\"1Co1:1\",\"Tit1:1\",\"Gen1:1\",\"Col1:1\"]",
     "test": "1,2",
-    "SelectedDocsList": "CUVS,NIV,ESV,KJV,_myNote,_myTakeaway,_myPrayer",
-    "#MemoryVerse": "[\"Isa28:16\",\"Isa28:15\",\"Psm8:6\",\"Rom3:31\",\"1Ti4:1\",\"Col2:23\",\"1Co8:12\",\"Pro16:9\",\"Col1:15\",\"Pro8:22\",\"1Co9:26\",\"1Ts4:17\",\"Eph2:2\",\"2Co10:3\",\"Eph6:12\",\"Phl1:30\",\"1Ts2:2\",\"Gen1:1\",\"1Co10:13\",\"Tit2:11\"]"
+    "SelectedDocsList": "CUVS,NIV,ESV,KJV,CUVpy,_myTakeaway",
+    "#MemoryVerse": "[\"Tit2:11\",\"1Co10:13\",\"Gen1:1\",\"1Ts2:2\",\"Phl1:30\",\"Eph6:12\",\"2Co10:3\",\"Eph2:2\",\"1Ts4:17\",\"1Co9:26\",\"Pro8:22\",\"Col1:15\",\"Pro16:9\",\"1Co8:12\",\"Col2:23\",\"1Ti4:1\",\"Rom3:31\",\"Psm8:6\",\"Isa28:15\",\"Isa28:16\"]"
 }
