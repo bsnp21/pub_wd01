@@ -27145,7 +27145,7 @@ var _bnotes=
             "44": ""
         },
         "5": {
-            "1": "<ol><li><a href=\"https://www.youtube.com/watch?v=1tGn6fKslEM\">ECM missionary</a></li></ol>",
+            "1": "<ol><li><a href=\"https://www.youtube.com/watch?v=1tGn6fKslEM\">ECM missionary</a> --Luk5:10</li></ol>",
             "2": "",
             "3": "",
             "4": "",
