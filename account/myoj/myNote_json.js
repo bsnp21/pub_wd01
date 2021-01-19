@@ -19640,7 +19640,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "<ol><li>Jesus used scourge to drive out businessmen in the temple. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
