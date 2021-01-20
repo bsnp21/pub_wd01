@@ -24517,7 +24517,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "what is good? ----------to do justly (to me) ------to love mercy (to others) -----to walk humbly with God (to God) --------Chinese buddhist mixed good, bearing, authentic. Without God, Jesus Christ, nothing can be good (LeiFeng); bearing is bittering; authentic is big lying. (LiuXun)---------------It is immediately clear that the Latin and German derivations convey two quite different meanings and moods, even though they translate identical NT Greek words. Politicians and social commentators will argue for a just society, but rarely will they plead for a righteous society. And a magistrate is expected to be just but not necessarily righteous. Justice seems to apply to law and public life, whereas righteousness appears to apply to the private sphere. (http://www.ethos.org.au/online-resources/engage-mail/justice-and-righteousness) ",
+            "8": "<ol><li>what is good? ----------to do justly (to me) ------to love mercy (to others) -----to walk humbly with God (to God) </li><li>Jesus greatest command: Mat22:37-40</li><li>--------Chinese buddhist mixed good, bearing, authentic. Without God, Jesus Christ, nothing can be good (LeiFeng); bearing is bittering; authentic is big lying. (LiuXun)---------------It is immediately clear that the Latin and German derivations convey two quite different meanings and moods, even though they translate identical NT Greek words. </li><li>Politicians and social commentators will argue for a just society, but rarely will they plead for a righteous society. And a magistrate is expected to be just but not necessarily righteous. Justice seems to apply to law and public life, whereas righteousness appears to apply to the private sphere. (http://www.ethos.org.au/online-resources/engage-mail/justice-and-righteousness) </li><li><a href=\"https://www.youtube.com/watch?v=3-ONtyCA0RQ&feature=youtu.be\">Bernice King</a></li><li><br></li></ol>",
             "9": "",
             "10": "",
             "11": "",
@@ -27145,7 +27145,7 @@ var _bnotes=
             "44": ""
         },
         "5": {
-            "1": "",
+            "1": "<ol><li><a href=\"https://www.youtube.com/watch?v=1tGn6fKslEM\">ECM missionary</a> DaiJiZong --Luk5:10</li></ol>",
             "2": "",
             "3": "",
             "4": "",
