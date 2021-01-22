@@ -335,7 +335,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "<ol><li>  sister or wife:  https://www.i.bible/behind-the-scenes/sister-or-wife/</li></ol>",
             "14": "",
             "15": "",
             "16": "",
