@@ -15205,7 +15205,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>about Bible. Special reveal, common revealing. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
