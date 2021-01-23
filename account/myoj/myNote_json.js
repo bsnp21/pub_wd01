@@ -29749,7 +29749,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Speaking in tongues is an evidence to get of the culture. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
