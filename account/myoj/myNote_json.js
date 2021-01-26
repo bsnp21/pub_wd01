@@ -26451,7 +26451,7 @@ var _bnotes=
             "36": "",
             "37": "",
             "38": "",
-            "39": "<ol><li>Green grass. Psm23:2</li></ol>",
+            "39": "<ol><li>Green grass. Psm23:2. Pastor said that I do not have evidence to prove the relationship. Indeed, it’s the work of HS. </li></ol>",
             "40": "",
             "41": "<ol><li>a5+2=7</li></ol>",
             "42": "",
