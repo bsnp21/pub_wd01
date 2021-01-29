@@ -26451,7 +26451,7 @@ var _bnotes=
             "36": "",
             "37": "",
             "38": "",
-            "39": "<div><br></div><ol><li>The context of <span style=\"color: rgb(39, 174, 96);\">green</span> grass is identical in Psa23:2. He is here. <a href=\"https://www.youtube.com/watch?v=euMXI23RNCQ\">CalebClick</a><a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&stop=2250\">12/27/20</a>:I cannot prove. Not need to prove. It's the HolySpirit.</li></ol>",
+            "39": "<div><br></div><ol><li>The context of <span style=\"color: rgb(39, 174, 96);\">green</span> grass is identical in Psa23:2. He is here. <a href=\"https://www.youtube.com/watch?v=euMXI23RNCQ\">CalebClick</a><a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&stop=2250\">12/27/20</a>:I cannot prove. Not need to prove. It's the HolySpirit.</li><li>In Luk9:15,Mat14:19 do not have green. Gospel John no bread.</li></ol>",
             "40": "",
             "41": "<ol><li>a5+2=7</li></ol>",
             "42": "",
