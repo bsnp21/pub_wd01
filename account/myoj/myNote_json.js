@@ -25238,7 +25238,7 @@ var _bnotes=
             "6": "Loud.&nbsp;",
             "7": "",
             "8": "",
-            "9": "<ol><li>The Lord’s Prayer </li></ol>",
+            "9": "The Lord’s Prayer</ol>",
             "10": "",
             "11": "",
             "12": "",
