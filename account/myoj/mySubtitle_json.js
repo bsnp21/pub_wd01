@@ -34,7 +34,7 @@ var _Max_struct={
             "31": ""
         },
         "2": {
-            "1": "<ol><li>Adam and Eve</li></ol>",
+            "1": "<div>Adam and Eve</div>",
             "2": "",
             "3": "",
             "4": "<ol><li>Adam and Eve</li></ol>",
