@@ -26451,7 +26451,7 @@ var _bnotes=
             "36": "",
             "37": "",
             "38": "",
-            "39": "<div> </div><ol><li>The context of <span style=\"background-color:#2ecc71;\">green</span> grass is identical in Psa23:2.  <a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&stop=2250\">CalebClick(12/27/20</a>) said I cannot prove it -- no need to prove it -- Holy Spirit said so.</li><li>In Luk9:15,Mat14:19 do not have <span style=\"background-color:#2ecc71;\">green</span>. In John, no 5+2 story.</li></ol>",
+            "39": "<div> </div><ol><li>The context of <span style=\"background-color:#2ecc71;\">green</span> grass is identical in Psa23:2.  <a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&stop=2250\">CalebClick(12/27/20</a>) said I cannot prove it -- no need to prove it -- Holy Spirit said so.</li><li>In Luk9:15,Mat14:19 do not have <span style=\"background-color:#2ecc71;\">green</span>. In John, no 5+2 story. </li></ol>",
             "40": "",
             "41": "<ol><li>a5+2=7</li></ol>",
             "42": "",
