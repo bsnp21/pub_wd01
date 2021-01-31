@@ -31531,7 +31531,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>Let me be possessed by your Holy Spirit.  </li><li>Let me be slavery of the Lord Jesus. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
