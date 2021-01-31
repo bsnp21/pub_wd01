@@ -742,7 +742,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "<ol><li>Chinese not only stolen the money and technologies of us, but also stole the blessing of God. Chinese Jacob. </li><li>If no cross culture, no inter culture. </li></ol>"
+            "34": "<ol><li>Chinese not only stolen the money and technologies of us, but also stole the blessing of God. Chinese Jacob. </li><li>If no cross culture, no <font class=\"matInSvr\">inter</font> culture. </li><li>Christians missionary create a new culture—Interculural—soon became a culture in the world. </li></ol>"
         },
         "26": {
             "1": "",
