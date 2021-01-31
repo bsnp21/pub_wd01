@@ -31531,7 +31531,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>Rom12:1</li><li>Don’t let the mperfect of church to mislead the prefect  Character of Jesus. </li></ol>",
+            "10": "<ol><li>Rom12:1</li><li>Don’t let the imperfect of church to mislead the perfect   Character of Jesus. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
