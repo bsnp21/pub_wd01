@@ -31537,7 +31537,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "<ol><li>The meaning of the cross is to remove the complaints of Adam and Eve, the wrath of God, the hatred of the culture, the envying of brothers. To United in Jesus with His love, His peace, His joy, His bitterness. </li></ol>",
+            "16": "<ol><li>The meaning of the cross is to remove the complaints of Adam and Eve toward Elohim, the wrath of God, the hatred of the culture, the envying of brothers. To United in Jesus with His love, His peace, His joy, His bitterness. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
