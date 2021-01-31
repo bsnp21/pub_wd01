@@ -19933,7 +19933,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "",
-            "31": "<ol><li>The sabbath day, the seventh day, the rest day- the end and the beginning. Seven is cross. </li><li>Chinese: Dao is one one inch, demon is one feet high. </li></ol>"
+            "31": "<ol><li>The sabbath day, the seventh day, the rest day- the end and the beginning. Seven is cross. </li><li>Chinese: Dao is one one inch, demon is one feet high. Logo will be one mile. He will be over it forever. He will reign forever. </li></ol>"
         },
         "41": {
             "1": "",
