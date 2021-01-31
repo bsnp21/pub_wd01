@@ -742,7 +742,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": ""
+            "34": "<ol><li>Chinese not only stolen the money and technologies of us, but also stole the blessing of God. Chinese Jacob. </li><li><br></li></ol>"
         },
         "26": {
             "1": "",
