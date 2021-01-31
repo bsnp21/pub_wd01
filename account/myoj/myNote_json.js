@@ -19933,7 +19933,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "",
-            "31": ""
+            "31": "<ol><li>The sabbath day, the seventh day the rest day. </li><li>Chinese: Dao is one one inch, demon is one feet high. </li></ol>"
         },
         "41": {
             "1": "",
