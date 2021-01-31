@@ -843,7 +843,7 @@ var _bnotes=
             "11": "",
             "12": "<ol><li>Ladder is Jesus. </li></ol>",
             "13": "",
-            "14": "",
+            "14": "<ol><li>Directions and order: west->east, north->south</li></ol>",
             "15": "",
             "16": "",
             "17": "",
