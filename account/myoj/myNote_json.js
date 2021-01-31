@@ -32293,7 +32293,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": ""
+            "15": "<ol><li>To be free, be the slavery of Jesus. </li><li>Be possessed by Jesus. </li><li><br></li></ol>"
         },
         "3": {
             "1": "",
