@@ -851,7 +851,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "<ol><li>Jacob's Conditional Faith</li></ol>"
+            "22": "<ol><li>Jacob's Conditional Faith and God's unconditional love.</li><li>In eyes of God, Jacob is better than Essaue. In eyes of culture, Essaue is a righteous victim. </li></ol>"
         },
         "29": {
             "1": "",
