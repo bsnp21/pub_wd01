@@ -851,7 +851,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "<ol><li>Jacob's Conditional Faith and God's unconditional love.</li><li>In eyes of God, Jacob is better than Essaue. In eyes of culture, Essaue is a righteous victim. </li></ol>"
+            "22": "<ol><li>Jacob's Conditional Faith and God's unconditional love -- as long as you purse me, I blessed you even you lied and stolen the bless unfairly.</li><li>In eyes of God, Jacob is better than Essaue. In eyes of culture, Essaue is a righteous victim. </li><li>(Luk16:16)\"耶稣对众人说、你们要努力进窄门．我告诉你们、将来有许多人想要进去、却是不能。\" (Luk13:24 CUVS)</li></ol>"
         },
         "29": {
             "1": "",
