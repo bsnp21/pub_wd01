@@ -888,7 +888,7 @@ var _bnotes=
             "32": "",
             "33": "",
             "34": "",
-            "35": "<ol><li><li>missionary to China, Hudson Taylor, said: “There are three stages to every great work of God: first it is impossible, then it is difficult, then it is done.”</li></li></ol>"
+            "35": "<ol><li>missionary to China, Hudson Taylor, said: “There are three stages to every great work of God: first it is impossible, then it is difficult, then it is done.”</li></ol>"
         },
         "30": {
             "1": "",
