@@ -899,7 +899,7 @@ var _bnotes=
             "6": "<ol><li>Self-rigorous. </li></ol>",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Struggle. </li></ol>",
             "10": "",
             "11": "",
             "12": "",
