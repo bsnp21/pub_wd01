@@ -868,7 +868,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "<ol><li>Laban knew the story of Gen2 but he was not willing to leave his culture and land. </li></ol>",
-            "15": "",
+            "15": "<ol><li>Laban was a worldly-righteous but a money driven person rather than pursuing the mission of God. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
