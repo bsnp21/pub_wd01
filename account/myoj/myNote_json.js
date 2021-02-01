@@ -893,7 +893,7 @@ var _bnotes=
         "30": {
             "1": "",
             "2": "<ol><li>Jacob knew God but did not pray to God. </li></ol>",
-            "3": "",
+            "3": "<ol><li>Affected by Sarah. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
