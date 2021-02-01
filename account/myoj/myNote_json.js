@@ -867,7 +867,7 @@ var _bnotes=
             "11": "<ol><li>Why weep aloud?</li></ol>",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "<ol><li>Laban knew the story of Gen2 but he was not willing to leave his culture and land. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
