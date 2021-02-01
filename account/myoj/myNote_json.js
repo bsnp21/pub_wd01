@@ -864,7 +864,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "<ol><li>Why weep aloud?</li></ol>",
+            "11": "<ol><li>Why weep aloud? An unfair winner full of envy and desires, the heart never get peace, the pain in soul only the heart know.</li></ol>",
             "12": "",
             "13": "",
             "14": "<ol><li>Laban knew the story of Gen2 but he was not willing to leave his culture and land. </li></ol>",
