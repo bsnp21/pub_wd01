@@ -933,7 +933,7 @@ var _bnotes=
             "40": "",
             "41": "",
             "42": "",
-            "43": "<ol><li><a href=\"https://www.ebaomonthly.com/ebao/readebao.php?a=20070721\">跳羊</a>-雅各增羊法－不合遺傳學</li></ol>"
+            "43": "<ol><li><a href=\"https://www.ebaomonthly.com/ebao/readebao.php?a=20070721\">跳羊</a>-雅各增羊法不合遺傳學</li></ol>"
         },
         "31": {
             "1": "",
