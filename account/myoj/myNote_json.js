@@ -896,7 +896,7 @@ var _bnotes=
             "3": "<ol><li>Affected by Sarah. </li></ol>",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Self-rigorous. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
