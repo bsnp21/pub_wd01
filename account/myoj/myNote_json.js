@@ -851,7 +851,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": ""
+            "22": "<ol><li>Jacob's Conditional Faith</li></ol>"
         },
         "29": {
             "1": "",
