@@ -892,7 +892,7 @@ var _bnotes=
         },
         "30": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>Jacob knew God but did not pray to God. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
