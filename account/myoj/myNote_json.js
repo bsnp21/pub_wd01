@@ -615,7 +615,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": ""
+            "24": "<ol><li>How was Isaac after that? (<a href=\"https://lp.israelbiblicalstudies.com/lp_iibs_biblical_hebrew_akeda_2021-en.html?cid=84653&adGroupId=-1&utm_source=Email_Marketing&utm_medium=Akeda_02_21&utm_campaign=BIB_EN_EML_Akeda_2021-02-01_84653&commChannel=1&stid=7445159&hash=09f508a9a51bbd5470ea893ea61b37ff\">ref</a>)</li></ol>"
         },
         "23": {
             "1": "\n<div>\n<h5>Common secular delima</h5>\n\n<ol>\n\t<li>Ages: Abraham 137, Isaac 37. The death of Sara occurred after test. So Isaac was likely about 33 close to the age of Jesus on cross -- many people cannot accept virgins birth of Jesus. It is not something new but has been hinted and predicted again and again in ancient time before Jesus. Isaac: virgin birth of Jesus; Joseph: the administration of Jesus.&nbsp;</li>\n\t<li>Close kinship marriage: Sara is the younger sister of Abraham&rsquo;s father. The higher the human age, the more like the kinship marriage.&nbsp;<br />\n\tTypes of woman pregnancy&nbsp;(1) biological&nbsp;(2) spiritual pregnancy. Both were accounted in ancient Chinese books. It&rsquo;s not strange that Jesus was born from Virgin Mary. Human gen is devolution process due the sins.&nbsp;</li>\n\t<li>Takeaway from &nbsp;Abraham:<br />\n\t(1) Mormon&nbsp;follows&nbsp;errorless follow Abraham.<br />\n\t(2) Noah and the great men in ancient times are greater than Abraham<br />\n\t(3) The key of Abraham is the trust of the Lord.<br />\n\t(4)&nbsp;The only perfect person we should learn is Jesus. No righteousness in the world. Do not search idols among them.&nbsp;</li>\n</ol>\n</div>\n",
