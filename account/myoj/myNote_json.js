@@ -901,7 +901,7 @@ var _bnotes=
             "8": "",
             "9": "<ol><li>Struggle. </li></ol>",
             "10": "",
-            "11": "",
+            "11": "<ol><li>Luck in struggle. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
