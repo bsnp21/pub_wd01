@@ -914,7 +914,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "<ol><li>Please purify our heart</li></ol>",
+            "24": "<ol><li>Please purify our heart</li><li><br></li></ol>",
             "25": "",
             "26": "",
             "27": "",
