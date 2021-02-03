@@ -19900,7 +19900,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "<ol><li>D.A. Don Carson. Gospel for <a href=\"https://www.gospel4china.org/recorded/\">China Conference 2020.12.30</a> (https://www.gospel4china.org/recorded/) @41:10-41:53</li></ol>"
+            "8": "<ol><li>D.A. Don Carson. Gospel for <a href=\"https://www.gospel4china.org/recorded/\">China Conference 2020.12.30</a> (https://www.gospel4china.org/recorded/) @41:10-41:53</li><li>One of the saddest verse in the Bible.</li><li>(a) show off (b) selfish (c) abuse the doctrine of God's soveignty. </li></ol>"
         },
         "40": {
             "1": "",
