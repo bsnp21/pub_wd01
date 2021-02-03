@@ -19900,7 +19900,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "<ol><li>D.A. Don Carson. Gospel for China Conference 2020.12.30 (https://www.gospel4china.org/recorded/)</li></ol>"
+            "8": "<ol><li>D.A. Don Carson. Gospel for <a href=\"https://www.gospel4china.org/recorded/\">China Conference 2020.12.30</a> (https://www.gospel4china.org/recorded/) @41:10-41:53</li></ol>"
         },
         "40": {
             "1": "",
