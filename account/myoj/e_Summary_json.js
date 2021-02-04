@@ -850,7 +850,7 @@ var _Max_struct={
             "19": "",
             "20": "",
             "21": "",
-            "22": "<ol><li>God’s promises never change.</li><li>God’s blessings is stealable. </li><li>God’s unconventional love vs Jacob conditional love. </li><li>Can we steal the blessing of God with unrighteous method?</li></ol>"
+            "22": "<ol><li>God’s promises never change.</li><li>God’s blessings is stealable. </li><li>God’s unconventional love vs Jacob conditional love. </li><li>God’s promises are stealable. Can we steal the blessing of God with unrighteous method?</li></ol>"
         },
         "29": {
             "1": "",
