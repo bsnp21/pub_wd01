@@ -843,7 +843,7 @@ var _bnotes=
             "11": "",
             "12": "<ol><li>Ladder is Jesus. </li></ol>",
             "13": "",
-            "14": "<ol><li>God’s promises Gen12:1-2, Gen13:16, Gen15:5</li><li>Directions and order: west->east, north->south</li></ol>",
+            "14": "<ol><li>God’s promises Gen12:1-2, Gen13:16, Gen15:5</li><li>Directions and order: west->east, north->south</li><li>Trinity. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
