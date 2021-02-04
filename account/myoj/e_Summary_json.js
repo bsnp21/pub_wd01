@@ -913,7 +913,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "<ol><li>Jacob had 11 sons and 1 daughter. </li><li>Is this the blessing from God?</li><li>Is Jacob blessed?</li><li>Anti-Semitism  Martin; pro-semitism Christians. </li><li>What we can learn from here. </li><li>Prosperous Gospel. </li><li><br></li></ol>",
+            "24": "<ol><li>Jacob had 11 sons and 1 daughter. </li><li>Is this the blessing from God?</li><li>Is Jacob blessed?</li><li>Anti-Semitism  Martin; pro-semitism Christians. </li><li>Mormon polygamy. </li><li>What we can learn from here. </li><li>Prosperous Gospel. </li><li><br></li></ol>",
             "25": "",
             "26": "",
             "27": "",
