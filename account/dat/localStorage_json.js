@@ -1,3 +1,31 @@
 var localStorage = {
-   "#MemoryVerse": "[\"Pro16:9\",\"Mic6:8\",\"Mic6:1\"]",
+    "#MemoryVerse": [
+        "1Co8:9",
+        "1Co8:11",
+        "1Co8:12",
+        "1Co9:26",
+        "1Ti4:1",
+        "1Ts2:2",
+        "1Ts4:17",
+        "2Co10:3",
+        "Col1:15",
+        "Col2:23",
+        "Eph2:2",
+        "Eph6:12",
+        "Isa28:15",
+        "Isa28:16",
+        "Jhn2:15",
+        "Mic1:1",
+        "Mic6:1",
+        "Mic6:8",
+        "Phl1:30",
+        "Pro16:9",
+        "Pro8:22",
+        "Psm8:6",
+        "Rom3:31",
+        "Gen29:7",
+        "Gen29:2",
+        "Rom14:23",
+        "Jhn3:35"
+    ]
 }
