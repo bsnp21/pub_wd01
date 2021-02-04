@@ -1,7 +1,7 @@
 var _Max_struct={
     "Gen": {
         "1": {
-            "1": "In the Beginning",
+            "1": "In the Beginning God Created",
             "2": "",
             "3": "THE LORD SAID<h2></h2>",
             "4": "",
