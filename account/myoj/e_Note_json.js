@@ -1094,7 +1094,7 @@ var _bnotes=
             "10": "",
             "11": "<ol><li>Who is he? Joseph, Jesus. </li></ol>",
             "12": "",
-            "13": "<ol><li>Act1:9</li></ol>",
+            "13": "<ol><li>Act1:9 went up. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
