@@ -904,7 +904,7 @@ var _bnotes=
             "11": "<ol><li>Luck in struggle. </li></ol>",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "<ol><li>Gen35:22 Mandrake </li></ol>",
             "15": "<ol><li>Struggle </li><li>Mandrake is a herb for fertility to induce conception </li></ol>",
             "16": "",
             "17": "",
