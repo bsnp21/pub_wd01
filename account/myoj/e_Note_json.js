@@ -1099,7 +1099,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol><li>Mak15:34</li></ol>",
+            "18": "<ol><li>Mak15:34. Original meaning of oni is lost.  </li></ol>",
             "19": "",
             "20": "",
             "21": "",
