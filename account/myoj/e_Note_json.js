@@ -1101,7 +1101,7 @@ var _bnotes=
             "17": "",
             "18": "<ol><li>Mak15:34. Original meaning of oni is lost.  </li></ol>",
             "19": "",
-            "20": "",
+            "20": "<ol><li>Chinese pillars. </li></ol>",
             "21": "",
             "22": "<ol><li>Mandrake</li></ol>",
             "23": "",
