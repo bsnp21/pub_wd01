@@ -1158,7 +1158,7 @@ var _Max_struct={
             "43": ""
         },
         "37": {
-            "1": "<a class=\"e_Subtitle\">#Joseph sold</a>",
+            "1": "<a class=\"e_Subtitle\">#Joseph was sold</a>",
             "2": "",
             "3": "",
             "4": "",
