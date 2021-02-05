@@ -912,7 +912,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "<ol><li>Mandrake or God made her fertile?</li></ol>",
             "23": "",
             "24": "",
             "25": "",
