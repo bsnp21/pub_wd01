@@ -1082,7 +1082,7 @@ var _Max_struct={
             "31": ""
         },
         "35": {
-            "1": "<a class=\"e_Subtitle\">#Jacob Growup Israel </a>",
+            "1": "<a class=\"e_Subtitle\">#Jacob Growup Israel — the death of Raechel, Nurse and Isaac. </a>",
             "2": "",
             "3": "",
             "4": "",
