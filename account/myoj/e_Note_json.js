@@ -905,7 +905,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "<ol><li>Struggle </li></ol>",
+            "15": "<ol><li>Struggle </li><li>Mandrake is a herb for fertility to induce conception </li></ol>",
             "16": "",
             "17": "",
             "18": "",
