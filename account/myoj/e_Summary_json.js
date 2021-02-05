@@ -913,7 +913,7 @@ var _Max_struct={
             "21": "",
             "22": "",
             "23": "",
-            "24": "<ol><li>Jacob had 11 sons and 1 daughter. </li><li>Is this the blessing from God?</li><li>Is Jacob blessed?</li><li>Anti-Semitism  Martin; pro-semitism Christians. </li><li>Mormon polygamy. </li><li>What we can learn from here. </li><li>Prosperous Gospel. </li><li>Jacob -- the character of Jacob, wrestling/struggle, remains until today.</li></ol>",
+            "24": "<ol><li>Jacob had 11 sons and 1 daughter. </li><li>Is this the blessing from God?</li><li>Is Jacob blessed?</li><li>Anti-Semitism  Martin; pro-semitism Christians. </li><li>Mormon polygamy. </li><li>What we can learn from here. </li><li>Prosperous Gospel. </li><li>The worldly character of Jacob</li><li>(a) wordly lovely person, Laban, family all wanted him. </li><li>(b) emotional, sweeping, falling love </li><li>(c) hard working, energetic</li><li>(d) intellent  </li><li>(e) integrated person -- keep promise. </li><li>(f) not lying but being cheated. no violence. </li><li>Spiritual Character of Jacob</li><li>(a) Know God. </li><li>(b) half faith-half doubt. <br></li><li>(c) Not pray for God. </li><li>(d) responsive to God. </li><li>(e) wrestling/struggle, remains until today.</li><li>Compare with his elder brother Essau.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
