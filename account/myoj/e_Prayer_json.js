@@ -15345,7 +15345,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": ""
+            "14": "<ol><li>Wait for the Lord. I wait for you my Lord. </li></ol>"
         },
         "28": {
             "1": "",
