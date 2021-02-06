@@ -15335,7 +15335,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>God help me to be able to dwell in the house of the Lord. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
