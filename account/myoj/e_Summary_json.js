@@ -25553,7 +25553,7 @@ var _Max_struct={
             "8": "",
             "9": "",
             "10": "",
-            "11": "<ol><li>Man can understand the temptation after being templated. </li><li>Jesus knew temptations with Holy Spirit. No experience is needed. </li></ol>",
+            "11": "<ol><li>Man can understand the temptation after being templated. </li><li>Jesus knew temptations through the Holy Spirit. No experience is needed. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
