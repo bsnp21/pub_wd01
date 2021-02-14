@@ -32,7 +32,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "",
-            "31": "<ol><li>God did not say ‘good’ immediately after man was created the same as when living creatures was created. (25)</li><li>God said ‘good’ twice in the sixth day, one is for living creatures another is for the whole thing created in the sixth day. The most important created man seems under praised. </li><li>Man has not pleased God yet.  </li></ol>"
+            "31": "<ol><li>God did not say ‘good’ immediately after man was created the same as when living creatures was created (25). </li><li>God said ‘good’ twice in the sixth day, one is for living creatures another is for the whole thing created in the sixth day. The most important created man seems under praised. </li><li>Man has not pleased God yet.  </li></ol>"
         },
         "2": {
             "1": "",
