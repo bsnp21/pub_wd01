@@ -28,7 +28,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "<ol><li>Make (zehar) rooted from‘remember’. </li><li>Female (nkvar) rooted from puncture/pierce. </li></ol>",
+            "27": "<ol><li>Make (zehar) rooted from‘remember’. </li><li>Female (nkvar) rooted from puncture/pierce. </li><li>Gender is the special for man among creatures. </li></ol>",
             "28": "",
             "29": "",
             "30": "",
