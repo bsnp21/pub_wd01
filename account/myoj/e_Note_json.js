@@ -85,7 +85,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "<ol><li>If God guards the way to the tree of life, no man can enter it—Man can only wait and accept Jesus. </li></ol>"
+            "24": "<ol><li>If God guards the way to the tree of life, no man can enter it—Man can only wait, accept and follow Jesus. </li></ol>"
         },
         "4": {
             "1": "",
