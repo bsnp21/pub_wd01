@@ -6,7 +6,7 @@ var _bnotes=
             "2": "<ol><li>Water analog to trinity. </li><li>formless Jhn1:1</li><li>invisible</li><li>Jesus walked on waters. (Mat14:26) (Mak6:48) (Jhn6:19) </li><li>Triune: God, Spirit and Jesus. </li></ol>",
             "3": "\n<ol>\n\t<li>in Pro8:30. God said, Jesus finished. Spirit is light.&nbsp;</li>\n\t<li>we plural&nbsp;</li>\n\t<li>&nbsp;light is Jesus&nbsp;</li>\n\t<li>&nbsp;spirit over water Gen1:2 and Mat14:25</li>\n\t<li>uu</li>\n</ol>\n",
             "4": "<ol><li>--</li></ol>",
-            "5": "",
+            "5": "<ol><li>God did not say that he saw darkness is good. It means the light is good; the darkness is not good. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
