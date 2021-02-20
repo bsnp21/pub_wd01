@@ -58,7 +58,7 @@ var _bnotes=
             "21": "<ol><li>a sleep time is the time when the Lord work on man. </li></ol>",
             "22": "",
             "23": "",
-            "24": "<ol><li>Context is before the fall. </li><li>a process from helper to wife who refer to Jesus' incarnation.</li><li>to parents refer to the world, but honor your parents which is culture. </li><li>Leave parents to reborn even he was not sinned. </li><li>ref Eph5:31, Mat19:5-6</li></ol>",
+            "24": "<ol><li>Context is before the fall. </li><li>a process from helper to wife who refer to Jesus' incarnation.</li><li>to parents refer to the world, but honor your parents which is culture. </li><li>Leave parents to reborn even he was not sinned. </li><li>ref Eph5:31, Mat19:5-6</li><li>A proclamation the creation of man is done but not yet. </li></ol>",
             "25": ""
         },
         "3": {
