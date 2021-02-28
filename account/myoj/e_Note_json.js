@@ -28872,7 +28872,7 @@ var _bnotes=
         "17": {
             "1": "<ol><li>Reciprocal glorify intimacy </li></ol>",
             "2": "<ol><li>Abba, Aramaic deep internal intimacy , 21x near</li></ol>",
-            "3": "<ol><li>Know:love trust submit obey glorify </li><li>Worship </li></ol>",
+            "3": "<ol><li>Know:love trust submit obey glorify </li><li>Worship </li><li>Not optional </li></ol>",
             "4": "",
             "5": "",
             "6": "",
