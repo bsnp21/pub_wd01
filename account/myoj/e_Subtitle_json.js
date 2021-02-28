@@ -37,7 +37,7 @@ var _Max_struct={
             "1": "#Day-7",
             "2": "",
             "3": "",
-            "4": "Adam and Eve",
+            "4": "Yhwy Elohim Created Adam and Eve",
             "5": "",
             "6": "",
             "7": "",
