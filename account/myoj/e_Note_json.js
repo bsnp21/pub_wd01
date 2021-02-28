@@ -28870,7 +28870,7 @@ var _bnotes=
             "33": ""
         },
         "17": {
-            "1": "",
+            "1": "<ol><li>Reciprocal glorify intimacy </li></ol>",
             "2": "<ol><li>Abba, Aramaic deep internal intimacy , 21x near</li></ol>",
             "3": "",
             "4": "",
