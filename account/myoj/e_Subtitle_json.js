@@ -1,7 +1,7 @@
 var _Max_struct={
     "Gen": {
         "1": {
-            "1": "In the Beginning God Created",
+            "1": "Creation Layer-1",
             "2": "<a class=\"e_Subtitle\">#creation of the world</a>",
             "3": "THE LORD SAID",
             "4": "",
