@@ -26811,7 +26811,7 @@ var _bnotes=
             "33": "",
             "34": "",
             "35": "",
-            "36": "",
+            "36": "<ol><li>To know God is to love God, to love is trust, commit follow </li><li>Know, culture, binding, need life to break </li><li>Abba the intimate relationship. </li><li>To call father is a way to honor parents </li><li><br></li></ol>",
             "37": "",
             "38": "",
             "39": "",
