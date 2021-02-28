@@ -3,7 +3,7 @@ var _Max_struct={
         "1": {
             "1": "In the Beginning God Created",
             "2": "",
-            "3": "THE LORD SAID<h2></h2>",
+            "3": "THE LORD SAID",
             "4": "",
             "5": "",
             "6": "",
@@ -34,10 +34,10 @@ var _Max_struct={
             "31": ""
         },
         "2": {
-            "1": "<div>Adam and Eve</div>",
+            "1": "Adam and Eve",
             "2": "",
             "3": "",
-            "4": "<ol><li>Adam and Eve</li></ol>",
+            "4": "Adam and Eve",
             "5": "",
             "6": "",
             "7": "",
@@ -61,7 +61,7 @@ var _Max_struct={
             "25": ""
         },
         "3": {
-            "1": "<ol><li>The Fall of Man</li></ol>",
+            "1": "The Fall of Man",
             "2": "",
             "3": "",
             "4": "",
@@ -87,7 +87,7 @@ var _Max_struct={
             "24": ""
         },
         "4": {
-            "1": "<ol><li>Cain and Abel</li></ol>",
+            "1": "Cain and Abel",
             "2": "",
             "3": "",
             "4": "",
