@@ -28871,7 +28871,7 @@ var _bnotes=
         },
         "17": {
             "1": "",
-            "2": "<ol><li>Abba, Aramaic intimacy </li></ol>",
+            "2": "<ol><li>Abba, Aramaic deep internal intimacy , 21x near</li></ol>",
             "3": "",
             "4": "",
             "5": "",
