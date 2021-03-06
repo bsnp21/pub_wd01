@@ -29812,7 +29812,7 @@ var _bnotes=
             "23": "",
             "24": "",
             "25": "",
-            "26": "",
+            "26": "<ol><li>Any Christian had sin if he did not preach. Woe if he doesn’t preach. </li></ol>",
             "27": "",
             "28": "",
             "29": "",
