@@ -1099,7 +1099,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol><li>Mak15:34. Original meaning of oni is lost.  Benjamin = \"son of the right hand\"</li></ol>",
+            "18": "<ol><li>Mak15:34. Original meaning of oni is lost.  Ben-oni = \"son of my sorrow\" Benjamin = \"son of the right hand\"</li></ol>",
             "19": "",
             "20": "<ol><li>Chinese pillars. </li></ol>",
             "21": "",
