@@ -30329,7 +30329,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "<ol><li>creation contains information the sons of God</li></ol>",
             "20": "",
             "21": "",
             "22": "",
