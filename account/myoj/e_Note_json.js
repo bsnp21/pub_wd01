@@ -1338,7 +1338,7 @@ var _bnotes=
         },
         "42": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>Jesus: I am the food of life. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
