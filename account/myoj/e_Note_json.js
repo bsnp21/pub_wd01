@@ -1322,7 +1322,7 @@ var _bnotes=
             "42": "",
             "43": "<ol><li>Idolatry of Joseph</li></ol>",
             "44": "",
-            "45": "",
+            "45": "<ol><li>Title:saviour of the world</li><li>Daughter</li></ol>",
             "46": "",
             "47": "",
             "48": "",
