@@ -1328,7 +1328,7 @@ var _bnotes=
             "48": "",
             "49": "",
             "50": "",
-            "51": "",
+            "51": "<ol><li>Two Son names : Joseph’s struggle</li><li>Failed at ease; win at difficulty. </li></ol>",
             "52": "",
             "53": "",
             "54": "",
