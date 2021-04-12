@@ -1475,7 +1475,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "<ol><li>Faith of Jesus/Joseph</li></ol>",
-            "27": "",
+            "27": "<ol><li>Psalm 23:3. Restore soul. </li></ol>",
             "28": ""
         },
         "46": {
