@@ -1374,7 +1374,7 @@ var _bnotes=
             "35": "",
             "36": "",
             "37": "",
-            "38": "<ol><li>Gray head down to the grave in sorrow. X3</li></ol>"
+            "38": "<ol><li>Gray head down to the grave in sorrow. X4 in Gen. </li></ol>"
         },
         "43": {
             "1": "",
