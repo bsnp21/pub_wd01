@@ -1328,7 +1328,7 @@ var _bnotes=
             "48": "",
             "49": "",
             "50": "",
-            "51": "<ol><li>Two Son names : Joseph’s struggle</li><li>Failed at ease; win at difficulty. </li></ol>",
+            "51": "<ol><li>Two sins: accept noble crown. marry with daughter of Egyptian. </li><li>Two Son names : forgot and rich. Failed at ease; win at difficulty. </li></ol>",
             "52": "",
             "53": "",
             "54": "",
