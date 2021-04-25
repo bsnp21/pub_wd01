@@ -29482,7 +29482,7 @@ var _bnotes=
             "30": ""
         },
         "12": {
-            "1": "",
+            "1": "<ol><li>Herod grandson a</li></ol>",
             "2": "",
             "3": "<ol><li>Pleased to people. </li></ol>",
             "4": "",
