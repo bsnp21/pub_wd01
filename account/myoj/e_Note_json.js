@@ -30111,7 +30111,7 @@ var _bnotes=
     },
     "Rom": {
         "1": {
-            "1": "",
+            "1": "<ol><li>apostle, saint, disciple, Christian, believer, </li></ol>",
             "2": "",
             "3": "",
             "4": "",
