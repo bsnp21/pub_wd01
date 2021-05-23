@@ -30119,7 +30119,7 @@ var _bnotes=
             "6": "",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "<ol><li>Sonship and Jesus are individual. </li></ol>",
             "10": "",
             "11": "",
             "12": "",
