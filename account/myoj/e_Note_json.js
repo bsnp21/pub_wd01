@@ -68,7 +68,7 @@ var _bnotes=
             "4": "1) firmly deny God's word. 2) negative word used in negative result. 3) Extra knowledge of God. ",
             "5": "like god != wa image of god",
             "6": "",
-            "7": "fig leaf=cover=liar=art=&gt;Mat21:19-curse fig tree;&nbsp;",
+            "7": "fig leaf=cover=liar=art=>Mat21:19-curse fig tree; <div>Fig leave us like hand. </div>",
             "8": "",
             "9": "",
             "10": "",
