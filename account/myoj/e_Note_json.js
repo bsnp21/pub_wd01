@@ -27016,7 +27016,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "<ol><li>Baby, clothes, manger three signs. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
