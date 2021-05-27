@@ -5395,7 +5395,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "<ol><li>Including self. </li></ol>",
-            "18": "",
+            "18": "<ol><li>Including gay. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
