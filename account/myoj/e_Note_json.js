@@ -24341,7 +24341,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "<ol><li>Takeover: OT will be taken over by the NT.</li></ol>",
             "14": "",
             "15": ""
         }
