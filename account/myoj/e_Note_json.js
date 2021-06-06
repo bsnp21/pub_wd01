@@ -24343,7 +24343,7 @@ var _bnotes=
             "12": "",
             "13": "<ol><li>Takeover: OT will be taken over by the NT.</li></ol>",
             "14": "",
-            "15": ""
+            "15": "<ol><li>never again to be uprooted in church Jesus.</li></ol>"
         }
     },
     "Oba": {
