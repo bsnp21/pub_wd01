@@ -30150,7 +30150,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Chinese Buddhism steals this verse. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
