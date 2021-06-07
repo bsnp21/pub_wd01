@@ -28898,7 +28898,7 @@ var _bnotes=
             "26": ""
         },
         "18": {
-            "1": "",
+            "1": "<ol><li>The broken garden vs Eden garden</li></ol>",
             "2": "",
             "3": "",
             "4": "",
