@@ -28881,7 +28881,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "<ol><li>Gen 2:24 United family. </li></ol>",
-            "12": "",
+            "12": "<ol><li>Preach so that the scripture might be fulfilled. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
