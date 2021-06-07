@@ -28892,7 +28892,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "<ol><li>Gen2:24 United family. </li></ol>",
+            "23": "<ol><li>Gen2:24 United family — Father, Son and Spirit—God, Man and Women. </li></ol>",
             "24": "",
             "25": "",
             "26": ""
