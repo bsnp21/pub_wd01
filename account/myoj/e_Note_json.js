@@ -28245,7 +28245,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>Nicodemus and Samaria comparison</li><li>Common: one to one. </li><li>Difference: names, knowledge, social status, gender, location, noble, topics, results.</li></ol>",
             "5": "",
             "6": "",
             "7": "",
