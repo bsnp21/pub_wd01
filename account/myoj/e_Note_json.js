@@ -28884,7 +28884,7 @@ var _bnotes=
             "12": "<ol><li>Preach so that the scripture might be fulfilled. </li></ol>",
             "13": "",
             "14": "",
-            "15": "<ol><li>Is culture neutral or good or bad?</li></ol>",
+            "15": "<ol><li>Is culture neutral or good or bad?</li><li>Is language diversity good or bad? </li><li>Culture and world </li></ol>",
             "16": "",
             "17": "",
             "18": "",
