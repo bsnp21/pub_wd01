@@ -30127,7 +30127,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "<ol><li>Definition of righteousness. </li><li>hub2:4, <a href=\"https://www.desiringgod.org/messages/the-just-shall-live-by-faith\">pepper</a></li></ol>",
+            "17": "<ol><li>Definition of righteousness. </li><li>hub2:4, <a href=\"https://www.desiringgod.org/messages/the-just-shall-live-by-faith\">JonhPepper</a> (1) too late to do (2) inevitability of fall. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
