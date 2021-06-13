@@ -30179,7 +30179,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "<ol><li>God is true, man is liar. Church is true, human cultures are liars. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
