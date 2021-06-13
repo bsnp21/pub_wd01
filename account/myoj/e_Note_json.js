@@ -30182,7 +30182,7 @@ var _bnotes=
             "4": "<ol><li>God is true, man is liar. Church is true, human cultures are liars. </li></ol>",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "<ol><li>Comparison between the church and social news. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
