@@ -30178,7 +30178,7 @@ var _bnotes=
         "3": {
             "1": "<ol><li>Jewish is selected by God. circumcision is a covenant between God and Abraham. </li></ol>",
             "2": "<ol><li>OT and NT. Testimony of God's mission.</li></ol>",
-            "3": "<ol><li>It's faithful not affection of infaith of Jesus. </li><li>If Jewish did not believe in Jesus, why should we believe in Him?</li><li>Christians' behavor is bad, why should I believe in Christ?</li></ol>",
+            "3": "<ol><li>It's faithful not affection of infaith of Jesus. </li><li>If Jewish did not believe in Jesus, why should we believe in Him?</li><li>Christians' behavior is bad, why should I believe in Christ?</li></ol>",
             "4": "<ol><li>God is true, man is liar. Church is true, human cultures are liars. </li><li>When Jesus blame Pharisees, it shows his righteousness because everything He said is turh.</li><li>When Jesus is judged, He name is glorified. The son of God, the son of Man. </li></ol>",
             "5": "",
             "6": "",
