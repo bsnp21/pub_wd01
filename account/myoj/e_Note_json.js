@@ -30176,7 +30176,7 @@ var _bnotes=
             "29": ""
         },
         "3": {
-            "1": "",
+            "1": "<ol><li>Jewish is selected by God. circumcision is a covenant between God and Abraham. </li></ol>",
             "2": "",
             "3": "",
             "4": "<ol><li>God is true, man is liar. Church is true, human cultures are liars. </li></ol>",
