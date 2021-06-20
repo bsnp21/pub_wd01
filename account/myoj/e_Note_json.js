@@ -30197,7 +30197,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "<ol><li>The righteousness is not to follow the law. But to believe Jesus, pray for Him. </li></ol>",
             "23": "",
             "24": "",
             "25": "",
