@@ -30149,7 +30149,7 @@ var _bnotes=
             "2": "",
             "3": "<ol><li>The judge always looks like a righteous man. </li></ol>",
             "4": "",
-            "5": "",
+            "5": "<ol><li>The bigger judge comes God. </li></ol>",
             "6": "<ol><li>Chinese Buddhism steals this verse. </li></ol>",
             "7": "",
             "8": "",
