@@ -30145,7 +30145,7 @@ var _bnotes=
             "32": ""
         },
         "2": {
-            "1": "",
+            "1": "<ol><li>Judgement comes from law. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
