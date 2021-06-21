@@ -30147,7 +30147,7 @@ var _bnotes=
         "2": {
             "1": "<ol><li>Judgement comes from law. </li></ol>",
             "2": "",
-            "3": "",
+            "3": "<ol><li>The judge always looks like a righteous man. </li></ol>",
             "4": "",
             "5": "",
             "6": "<ol><li>Chinese Buddhism steals this verse. </li></ol>",
