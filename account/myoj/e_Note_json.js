@@ -30222,7 +30222,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "<ol><li>Faith and promise are indivisible. </li><li>Law and punishment are indivisible. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
