@@ -30202,7 +30202,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "",
+            "27": "<ol><li>To compensate the sin by law? Or by faith. </li><li>Reduce punishment by law. (Determined by other people)</li><li>To be righteous by faith. (Determined by God)</li></ol>",
             "28": "",
             "29": "",
             "30": "",
