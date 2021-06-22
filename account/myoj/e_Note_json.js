@@ -30222,7 +30222,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "<ol><li>Faith and promise are indivisible. </li><li>Law and punishment are indivisible. </li><li>Theology belongs to a law. </li><li>Natural principles are laws. Daoism, Buddhism etc. </li></ol>",
+            "14": "<ol><li>Faith and promise are indivisible. </li><li>Law and punishment are indivisible. </li><li>Theology belongs to a law. </li><li>Natural principles are laws. Daoism, Buddhism, science etc. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
