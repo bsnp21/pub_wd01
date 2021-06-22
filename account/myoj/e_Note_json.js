@@ -30249,7 +30249,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "<ol><li>The purpose to create Adam is for Jesus. </li></ol>",
             "15": "",
             "16": "",
             "17": "",
