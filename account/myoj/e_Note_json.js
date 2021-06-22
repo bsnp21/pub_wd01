@@ -30209,7 +30209,7 @@ var _bnotes=
             "31": ""
         },
         "4": {
-            "1": "",
+            "1": "<ol><li>Abraham got nothing in flesh. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
