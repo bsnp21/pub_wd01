@@ -30242,7 +30242,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "<ol><li>Chinese language is confusing here. </li><li>Many examples for heroes. 64, ww2, civil wars. </li><li>Died for Falungong Master, for Mao, Jiankashi, Sunzhongshan, Trump. </li><li>Uriah Died for David. </li></ol>",
+            "7": "<ol><li>Chinese language has two meanings. </li><li>Many examples for heroes. 64, ww2, civil wars. </li><li>Died for Falungong Master, for Mao, Jiankashi, Sunzhongshan, Trump. </li><li>Uriah Died for David. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
