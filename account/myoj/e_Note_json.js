@@ -30273,7 +30273,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "<ol><li>We could not commit sin on purpose. </li><li>We committed unwittingly. Guilty and shame. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
