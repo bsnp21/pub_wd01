@@ -30243,7 +30243,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "<ol><li>Chinese language has two meanings. (1) to die for ‘truth’ in order to become righteous man. (2) to die for love in order to protect the righteous man. </li><li>Many examples for heroes. 64, ww2, civil wars. Die for the truth. </li><li>Died for Falungong Master, for Mao, Jiankashi, Sunzhongshan, Trump, Mohamed, Buddhism. </li><li>In China, not scarcely but abundantly. </li><li>Uriah Died for David. </li></ol>",
-            "8": "",
+            "8": "<ol><li>Die for love. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
