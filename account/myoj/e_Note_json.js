@@ -30249,7 +30249,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "<ol><li>Cain murdered Able. He was not punished according to law—hanged or stoned or imprison—he married had son—he was not punished by any law but perished with all after flooding</li></ol>",
-            "14": "<ol><li>The purpose to creating Adam is for Jesus. Jesus is the center and objective of creation. Man is not the center of the world.  Jesus is the son of God not for man. </li><li>Able was the first one died without being sinned. </li></ol>",
+            "14": "<ol><li>Able was the first one died without being sinned. </li><li>The purpose to creating Adam is for Jesus. Jesus is the center and objective of creation. Man is not the center of the world.  Jesus is the son of God not for man. </li><li><br></li></ol>",
             "15": "",
             "16": "",
             "17": "",
