@@ -30236,7 +30236,7 @@ var _bnotes=
             "25": ""
         },
         "5": {
-            "1": "",
+            "1": "<ol><li>Faith-righteousness-peace with God. </li><li>Peace and God are indivisible. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
