@@ -30248,7 +30248,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "<ol><li>Cain murdered Able. He was not punished according to law—hanged or stoned or imprison. </li></ol>",
+            "13": "<ol><li>Cain murdered Able. He was not punished according to law—hanged or stoned or imprison—he married had son.  </li></ol>",
             "14": "<ol><li>The purpose to create Adam is for Jesus. </li></ol>",
             "15": "",
             "16": "",
