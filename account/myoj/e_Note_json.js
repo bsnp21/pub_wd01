@@ -30260,7 +30260,7 @@ var _bnotes=
         },
         "6": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>Two types of death: die for sin or Jesus. </li><li>Chinese Simaqian said: all die, heavier than mountain or lighter than leather. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
