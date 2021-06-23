@@ -30264,7 +30264,7 @@ var _bnotes=
             "3": "",
             "4": "<ol><li>Jesus led us pass through death to overcome sinful death to reborn to have a new eternal life. </li></ol>",
             "5": "<ol><li>The death of Jesus and the eternal life from resurrection are indivisible. </li></ol>",
-            "6": "",
+            "6": "<ol><li>Old sinful one is dead and new life can born. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
