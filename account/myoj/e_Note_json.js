@@ -30328,7 +30328,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "<ol><li>Ccp makeup a beautiful glorious idealism. </li></ol>",
             "19": "<ol><li>creation contains information the sons of God</li></ol>",
             "20": "",
             "21": "",
