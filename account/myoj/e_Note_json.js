@@ -30334,7 +30334,7 @@ var _bnotes=
             "21": "<ol><li>The world will decay like a car a house. </li><li>The meaning of the world is to glorify Jesus and his bride — the children of God. </li></ol>",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "<ol><li>Save by faith that is hope. </li></ol>",
             "25": "",
             "26": "",
             "27": "",
