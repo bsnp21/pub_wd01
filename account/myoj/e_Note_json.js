@@ -30313,7 +30313,7 @@ var _bnotes=
         "8": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "<ol><li>Law must work with ethos and conscience. </li></ol>",
             "4": "",
             "5": "<ol><li>Jhn3:6</li></ol>",
             "6": "<ol><li>Greatest commands </li></ol>",
