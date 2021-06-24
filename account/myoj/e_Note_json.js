@@ -30328,7 +30328,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "<ol><li>Ccp makeup a beautiful glorious idealism. </li></ol>",
+            "18": "<ol><li>Ccp and many religions make up a beautiful glorious idealism to allow people to die for. </li></ol>",
             "19": "<ol><li>creation contains information the sons of God</li></ol>",
             "20": "",
             "21": "",
