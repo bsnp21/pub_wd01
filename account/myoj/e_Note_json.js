@@ -30329,7 +30329,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "<ol><li>Ccp and many religions make up a beautiful glorious idealism to allow people to die for. </li></ol>",
-            "19": "<ol><li>creation contains information the sons of God</li></ol>",
+            "19": "<ol><li>creation contains information the sons of God. </li><li>The purpose of the creation. </li></ol>",
             "20": "",
             "21": "",
             "22": "",
