@@ -59,7 +59,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "<ol><li>Context is before the fall. </li><li>a process from helper to wife who refer to Jesus' incarnation.</li><li>to parents refer to the world, but honor your parents which is culture. </li><li>Leave parents to reborn even he was not sinned. </li><li>ref Eph5:31, Mat19:5-6</li><li>A proclamation the creation of man is done but not yet. </li><li>The turning point of Adam in life. </li></ol>",
-            "25": ""
+            "25": "<ol><li>Again Until Rom1:16 law shamed because of Gospel. </li></ol>"
         },
         "3": {
             "1": "---1.) steal speech right of man for different types.   2.) Affirmative command became questionable. 3.) unique Lord God became pan god. 4.) true mixed in false. (syncretism)  5.) create word of true, question. 6.) modification concept. 7.) attractive to change attention (behold to it). 8.)  to think  9.) break silence, to speak 10.) cause to answer to make conversation.        ",
