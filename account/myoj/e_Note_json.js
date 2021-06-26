@@ -2196,7 +2196,7 @@ var _bnotes=
         "20": {
             "1": "",
             "2": "",
-            "3": "<ol><li>Law= לֹֽ֣א = Not</li></ol>",
+            "3": "<ol><li>Law (fr old English) = לֹֽ֣א = Not</li></ol>",
             "4": "",
             "5": "",
             "6": "",
