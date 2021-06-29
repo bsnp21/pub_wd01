@@ -30127,7 +30127,7 @@ var _bnotes=
             "14": "",
             "15": "<ol><li>Preach the gospel as much as I can — missiological principle. </li></ol>",
             "16": "<ol><li>Why am I shamed of the gospel?  (1) odd (2) unpopular (3) difficult to understand (4) unrighteous, evil (5) sexual (6) ungodly (7) heresy, false (8) unreliable, unfaithful. (9) useless, unrelated, ineffective, weakness. </li><li>Any non-gospel or teaching is shameful. </li><li>I have no shame because of Gospel —return back to Adam and Eve before the fall — even naked. </li></ol>",
-            "17": "<ol><li>Definition of righteousness. </li><li>Gospel — faith — righteousness—driven power/energy. </li><li>hub2:4, <a href=\"https://www.desiringgod.org/messages/the-just-shall-live-by-faith\">JonhPepper</a> (1) too late to do (2) inevitability of fall. </li></ol>",
+            "17": "<ol><li>Definition of righteousness. </li><li>Gospel — faith — righteousness—driven power/energy. </li><li>Chinese Menzi’s righteousness (flesh blood based) vs God’s righteousness (faith based)</li><li>hub2:4, <a href=\"https://www.desiringgod.org/messages/the-just-shall-live-by-faith\">JonhPepper</a> (1) too late to do (2) inevitability of fall. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
