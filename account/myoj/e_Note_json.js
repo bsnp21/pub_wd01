@@ -30266,7 +30266,7 @@ var _bnotes=
             "5": "<ol><li>The death of Jesus and the eternal life from resurrection are indivisible. </li></ol>",
             "6": "<ol><li>Old sinful one is dead and new life can born.</li><li>Jesus took over our sin and was punished </li></ol>",
             "7": "",
-            "8": "",
+            "8": "<ol><li>Rom1:17 the righteous live by faith. </li></ol>",
             "9": "",
             "10": "",
             "11": "",
