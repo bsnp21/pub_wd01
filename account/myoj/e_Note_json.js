@@ -30268,7 +30268,7 @@ var _bnotes=
             "7": "",
             "8": "<ol><li>Rom1:17 the righteous live by faith. </li></ol>",
             "9": "",
-            "10": "",
+            "10": "<ol><li>For us he did so. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
