@@ -30276,7 +30276,7 @@ var _bnotes=
             "15": "<ol><li>We could not commit sin on purpose. </li><li>We committed unwittingly. Guilty and shame. </li></ol>",
             "16": "<ol><li>How Righteous by faith: obedience slave</li></ol>",
             "17": "<ol><li>Only Jesus is the model who we should learn from. </li></ol>",
-            "18": "",
+            "18": "<ol><li>Master vs slave. Discrimination issues?</li></ol>",
             "19": "",
             "20": "",
             "21": "",
