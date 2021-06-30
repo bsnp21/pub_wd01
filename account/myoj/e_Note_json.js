@@ -30265,7 +30265,7 @@ var _bnotes=
             "4": "<ol><li>Jesus led us pass through death to overcome sinful death to reborn to have a new eternal life. </li></ol>",
             "5": "<ol><li>The death of Jesus and the eternal life from resurrection are indivisible. </li></ol>",
             "6": "<ol><li>Old sinful one is dead and new life can born.</li><li>Jesus took over our sin and was punished </li></ol>",
-            "7": "",
+            "7": "<ol><li>Rom6:23 Sin causes death. </li><li>Buddhism:</li><li>Zhuangzi: the sorrow is not better than the death of heart. </li><li>It’s good to die. </li></ol>",
             "8": "<ol><li>Rom1:17 the righteous live by faith. </li></ol>",
             "9": "<ol><li>The power of gospel.</li><li>Resurrection is not mysterious but the power to overwhelm the death. </li></ol>",
             "10": "<ol><li>For us he did so. </li><li>Once for all time work — power of God—no experience </li></ol>",
