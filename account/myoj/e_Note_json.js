@@ -30278,7 +30278,7 @@ var _bnotes=
             "17": "<ol><li>Only Jesus is the model who we should learn from. </li></ol>",
             "18": "<ol><li>Master vs slave. Discrimination issues?</li></ol>",
             "19": "",
-            "20": "",
+            "20": "<ol><li>One type of slave: ether-or relation. </li></ol>",
             "21": "",
             "22": "",
             "23": ""
