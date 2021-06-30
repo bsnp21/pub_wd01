@@ -30267,7 +30267,7 @@ var _bnotes=
             "6": "<ol><li>Old sinful one is dead and new life can born.</li><li>Jesus took over our sin and was punished </li></ol>",
             "7": "",
             "8": "<ol><li>Rom1:17 the righteous live by faith. </li></ol>",
-            "9": "",
+            "9": "<ol><li>The power of gospel. </li></ol>",
             "10": "<ol><li>For us he did so. </li></ol>",
             "11": "",
             "12": "",
