@@ -30259,7 +30259,7 @@ var _bnotes=
             "21": ""
         },
         "6": {
-            "1": "<ol><li>Before and after the reborn turning point. </li></ol>",
+            "1": "<ol><li>Before and after the reborn turning point. </li><li>For those before reborn let them to sin. </li><li>But for those after reborn it’s not good to sin. </li></ol>",
             "2": "<ol><li>Two types of death: die for sin or Jesus. </li><li>Chinese Simaqian said: all die, heavier than mountain or lighter than leather. </li><li>Die for what he believes. Of any reason illness or persecution or accidents or aging. </li></ol>",
             "3": "",
             "4": "<ol><li>Jesus led us pass through death to overcome sinful death to reborn to have a new eternal life. </li></ol>",
