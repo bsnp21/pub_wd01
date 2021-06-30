@@ -30272,7 +30272,7 @@ var _bnotes=
             "11": "<ol><li>How? The immigrants the journey soujgenor on earth. </li></ol>",
             "12": "<ol><li>Overcoming the body. Like the horse. </li></ol>",
             "13": "",
-            "14": "<ol><li>Good news. After reborn once live forever. </li></ol>",
+            "14": "<ol><li>Good news. After reborn once live forever. </li><li>The war between sin(death) and Jesus. </li><li>Where should we choose? </li></ol>",
             "15": "<ol><li>We could not commit sin on purpose. </li><li>We committed unwittingly. Guilty and shame. </li></ol>",
             "16": "",
             "17": "",
