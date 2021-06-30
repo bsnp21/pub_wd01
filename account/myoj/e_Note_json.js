@@ -30270,7 +30270,7 @@ var _bnotes=
             "9": "<ol><li>The power of gospel.</li><li>Resurrection is not mysterious but the power to overwhelm the death. </li></ol>",
             "10": "<ol><li>For us he did so. </li><li>Once for all time work — power of God—no experience </li></ol>",
             "11": "<ol><li>How?</li></ol>",
-            "12": "",
+            "12": "<ol><li>Overcoming the body. Like the horse. </li></ol>",
             "13": "",
             "14": "<ol><li>Good news. After reborn once live forever. </li></ol>",
             "15": "<ol><li>We could not commit sin on purpose. </li><li>We committed unwittingly. Guilty and shame. </li></ol>",
