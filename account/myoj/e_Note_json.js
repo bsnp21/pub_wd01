@@ -30275,7 +30275,7 @@ var _bnotes=
             "14": "<ol><li>Good news. After reborn once live forever. </li><li>The war between sin(death) and Jesus. The battle belong to God. </li><li>Where should we choose? </li></ol>",
             "15": "<ol><li>We could not commit sin on purpose. </li><li>We committed unwittingly. Guilty and shame. </li></ol>",
             "16": "",
-            "17": "",
+            "17": "<ol><li>Only Jesus is the model who we should learn from. </li></ol>",
             "18": "",
             "19": "",
             "20": "",
