@@ -30280,7 +30280,7 @@ var _bnotes=
             "19": "",
             "20": "<ol><li>Can only be One type of slave at a time: ether-or relation. </li><li>Slave of sin: is alluded and forced addiction </li><li>Save of righteousness is freedom joy and eternal life. </li></ol>",
             "21": "",
-            "22": "",
+            "22": "<ol><li>Anyone who experienced the slave of righteousness is not willing to be the slave of sin again. </li></ol>",
             "23": ""
         },
         "7": {
