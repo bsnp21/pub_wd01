@@ -30268,7 +30268,7 @@ var _bnotes=
             "7": "",
             "8": "<ol><li>Rom1:17 the righteous live by faith. </li></ol>",
             "9": "<ol><li>The power of gospel.</li><li>Resurrection is not mysterious but the power to overwhelm the death. </li></ol>",
-            "10": "<ol><li>For us he did so. </li><li>One time work — power of God</li></ol>",
+            "10": "<ol><li>For us he did so. </li><li>Once for all time work — power of God—no experience </li></ol>",
             "11": "",
             "12": "",
             "13": "",
