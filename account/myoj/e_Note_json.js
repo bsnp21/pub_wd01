@@ -30255,7 +30255,7 @@ var _bnotes=
             "17": "",
             "18": "<ol><li>Once only. The only one. Jesus. </li><li>To understand Jesus through sin-death-king. </li></ol>",
             "19": "",
-            "20": "",
+            "20": "<ol><li>Luk13:1 prodigal son</li></ol>",
             "21": ""
         },
         "6": {
