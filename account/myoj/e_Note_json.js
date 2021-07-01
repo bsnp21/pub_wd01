@@ -30279,7 +30279,7 @@ var _bnotes=
             "18": "<ol><li>Master vs slave. Discrimination issues?</li></ol>",
             "19": "",
             "20": "<ol><li>Can only be One type of slave at a time: ether-or relation. </li><li>Slave of sin: is alluded and forced addiction </li><li>Save of righteousness is freedom joy and eternal life. </li></ol>",
-            "21": "<ol><li>Two types of shame feelings. </li></ol>",
+            "21": "<ol><li>Different people shame differently. </li></ol>",
             "22": "<ol><li>Anyone who experienced the slave of righteousness is not willing to be the slave of sin again. </li></ol>",
             "23": "<ol><li>Takeaways:</li><li>Don’t sin any more in the sinful world. </li><li>Take the cross to prepare the temptation,pain, death and resurrection. </li><li>Consider ourselves as strangers pilgrims.  </li><li>Joy with faith. Live by faith. Salvation by faith. Hope by faith. </li></ol>"
         },
