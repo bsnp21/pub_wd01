@@ -30255,7 +30255,7 @@ var _bnotes=
             "17": "",
             "18": "<ol><li>Once only. The only one. Jesus. </li><li>To understand Jesus through sin-death-king. </li></ol>",
             "19": "",
-            "20": "<ol><li>Luk15:11 prodigal son</li><li>Most anti-Christ Paul came from a most pro-Christian. </li><li>Good pastor came from sinful person. </li><li>Paul </li></ol>",
+            "20": "<ol><li>Luk15:11 prodigal son</li><li>Most anti-Christ Paul came from a most pro-Christian. </li><li>Good pastor came from sinful person. </li><li><br></li></ol>",
             "21": ""
         },
         "6": {
