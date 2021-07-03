@@ -32171,7 +32171,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "<ol><li>Real love agape. </li></ol>",
-            "4": "",
+            "4": "<ol><li>Real joy, emotion. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
