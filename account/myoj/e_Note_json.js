@@ -30269,7 +30269,7 @@ var _bnotes=
             "8": "<ol><li>Rom1:17 the righteous live by faith. </li><li>How to die? Not suicide, nor heart death but like Jesus. </li></ol>",
             "9": "<ol><li>The power of gospel.</li><li>Resurrection is not mysterious but the power to overwhelm the death. </li></ol>",
             "10": "<ol><li>For us he did so. </li><li>Once for all time work — power of God—no experience </li></ol>",
-            "11": "<ol><li>How? The immigrants the journey sojourner on earth. </li><li>Strangers 1Pe1:1</li></ol>",
+            "11": "<ol><li>How? The immigrants the journey sojourner on earth. </li><li>Strangers (NIV)  exiled (ESV) 1Pe1:1</li><li>Pilgrim: a journey to the sacred place. </li></ol>",
             "12": "<ol><li>Overcoming the body. Like the horse. </li></ol>",
             "13": "",
             "14": "<ol><li>Good news. After reborn once live forever. </li><li>The war between sin(death) and Jesus. The battle belong to God. </li><li>Where should we choose? </li></ol>",
