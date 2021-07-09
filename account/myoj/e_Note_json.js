@@ -30211,7 +30211,7 @@ var _bnotes=
         "4": {
             "1": "<ol><li>Abraham got nothing in flesh. </li><li>According to flesh: body, desire, emotions, beautiful wife, saving Lots action. </li><li>God’s selection vs God’s will, for him, no human logical reason. </li><li>No personal goal, target. No idealism. </li><li>Like in company but not like Chinese hun e - do nothing but done— Daoism is a atheism. </li><li>Chinese brand itself hardworking and brave. Is it worthy to be proud?</li></ol>",
             "2": "<ol><li>Abraham actions: (1) saving Lots. — righteous?no. Results (2) wife loving? No. (3) the most desired ideal is to multiply children—finished?</li><li>His work is useful but nothing to boast in front of God. </li></ol>",
-            "3": "",
+            "3": "<ol><li>Fool man has fool blessing. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
