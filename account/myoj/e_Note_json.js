@@ -437,7 +437,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "<ol><li>Main reason for importance of Abraham. </li></ol>",
             "7": "",
             "8": "",
             "9": "",
