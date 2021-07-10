@@ -30218,7 +30218,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "<ol><li>Gen15:6 righteousness</li><li>Gen</li></ol>",
+            "10": "<ol><li>Gen15:6 righteousness</li><li>Gen17:10 circumcision. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
