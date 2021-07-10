@@ -400,7 +400,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "",
+            "10": "<ol><li>God bloodily classified man by righteousness and unrighteousness bloodily. Gen6:9, Gen15:6. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
