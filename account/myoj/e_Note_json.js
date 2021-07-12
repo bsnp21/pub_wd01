@@ -30321,7 +30321,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "<ol><li>Differ body and spirit. </li></ol>",
-            "11": "",
+            "11": "<ol><li>Body resurrection</li></ol>",
             "12": "",
             "13": "",
             "14": "",
