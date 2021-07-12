@@ -30284,7 +30284,7 @@ var _bnotes=
             "23": "<ol><li>Rom6:7 died then free from sin. </li><li>Takeaways:</li><li>Don’t sin any more in the sinful world. </li><li>Take the cross to prepare the temptation,pain, death and resurrection. </li><li>Consider ourselves as strangers pilgrims.  </li><li>Joy with faith. Live by faith. Salvation by faith. Hope by faith. </li></ol>"
         },
         "7": {
-            "1": "",
+            "1": "<ol><li>Mormonism baptize death. </li><li>Some catholic parish ask dead Mary and St to pray fir them. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
