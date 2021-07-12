@@ -30315,7 +30315,7 @@ var _bnotes=
             "2": "",
             "3": "<ol><li>Law must work with ethos and conscience. </li></ol>",
             "4": "",
-            "5": "<ol><li>Jhn3:6</li></ol>",
+            "5": "<ol><li>See Jhn3:6</li></ol>",
             "6": "<ol><li>Greatest commands </li></ol>",
             "7": "",
             "8": "",
