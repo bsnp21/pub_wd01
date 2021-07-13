@@ -31854,7 +31854,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "<ol><li>Don’t tell wife to prevent her misuses against husband. </li></ol>",
             "20": "",
             "21": "",
             "22": "",
