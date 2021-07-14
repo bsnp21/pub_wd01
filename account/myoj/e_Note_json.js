@@ -17698,7 +17698,7 @@ var _bnotes=
     "Pro": {
         "1": {
             "1": "",
-            "2": "",
+            "2": "<ol><li>3-Sight: insight, foresight, hindsight. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
