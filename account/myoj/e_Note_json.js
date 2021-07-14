@@ -17699,7 +17699,7 @@ var _bnotes=
         "1": {
             "1": "",
             "2": "<ol><li>3-Sight: insight, foresight, hindsight. </li></ol>",
-            "3": "",
+            "3": "<ol><li>Righteous:faith, justice:judgement, equity:moral. </li></ol>",
             "4": "",
             "5": "",
             "6": "",
