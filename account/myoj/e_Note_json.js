@@ -5417,7 +5417,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "",
-            "5": "",
+            "5": "<ol><li>Soul נַפְשְׁךָ֖ nafish  = psych + spirit <a id=\"H_G_Deu_6_5\" dir=\"rtl\" class=\"tx txH_G tx_OT\" style=\"width: 758px; -webkit-text-size-adjust: auto; display: inline !important;\">נַפְשְׁךָ֖</a><a id=\"H_G_Deu_6_5\" dir=\"rtl\" class=\"tx txH_G tx_OT\" style=\"width: 758px; -webkit-text-size-adjust: auto; display: inline !important;\">נַפְשְׁךָ֖</a></li></ol>",
             "6": "",
             "7": "",
             "8": "",
