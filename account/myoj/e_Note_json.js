@@ -30238,7 +30238,7 @@ var _bnotes=
         "5": {
             "1": "<ol><li>Faith-righteousness-peace with God. </li><li>Peace and God are indivisible. </li></ol>",
             "2": "",
-            "3": "<ol><li>Not remove sufferings but overcome it — the power of Gospel </li></ol>",
+            "3": "<ol><li>Not remove sufferings but overcome it — the power of Gospel </li><li>The purpose of suffering </li></ol>",
             "4": "",
             "5": "",
             "6": "",
