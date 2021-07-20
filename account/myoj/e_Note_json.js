@@ -30254,7 +30254,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "<ol><li>Once only. The only one. Jesus. </li><li>To understand Jesus through sin-death-king. </li></ol>",
-            "19": "",
+            "19": "<ol><li>uniqueness </li></ol>",
             "20": "<ol><li>Luk15:11 prodigal son</li><li>Most anti-Christ Paul became a most pro-Christian. </li><li>Good pastor came from sinful person. </li><li>A patient could be a good doctor. </li><li>The role of sin the world. </li></ol>",
             "21": "<ol><li>Results of Justified by faith: (1) peace with God. (2) stand in grace of Gad, (3) rejoice from Glory of God. (4) glory in tribulations— perseverance, character, hope, unshame, (5) revelation of the love of God. (6) saved from the wrath of God. (7) eternal life. (8) the purpose of Adam.  </li><li>Purpose of Adam : (1) pre-figure of Jesus (2) uniqueness of Jesus. (3) purpose of law and sin is for grace love. </li></ol>"
         },
