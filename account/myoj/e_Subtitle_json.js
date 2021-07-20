@@ -30627,7 +30627,7 @@ var _Max_struct={
             "25": ""
         },
         "5": {
-            "1": "<a class=\"e_Subtitle\">Death to sin, alive in Jesus -- Fruits of Justification by Faith     </a>",
+            "1": "<a class=\"e_Subtitle\">Death to sin, alive in Jesus -- Fruits of Justification by Faith (1:17)     </a>",
             "2": "",
             "3": "",
             "4": "",
