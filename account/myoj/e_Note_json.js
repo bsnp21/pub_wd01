@@ -30247,7 +30247,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "<ol><li>Live with joy in God through our Lord Jesus forever. </li></ol>",
-            "12": "",
+            "12": "<ol><li>one man is Eve.</li></ol>",
             "13": "<ol><li>Cain murdered Able. He was not punished according to law—hanged or stoned or imprison—he married had son—he was not punished by any law but perished with all after flooding</li></ol>",
             "14": "<ol><li>Able was the first one died without being sinned. </li><li>The purpose to create Adam is for Jesus. Jesus is the center and objective of creation. Man is not the center of the world.  Jesus is the son of God not for man. </li><li><br></li></ol>",
             "15": "",
