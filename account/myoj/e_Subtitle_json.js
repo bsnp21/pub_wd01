@@ -30650,7 +30650,7 @@ var _Max_struct={
             "21": ""
         },
         "6": {
-            "1": "<a class=\"e_Subtitle\">Dead in sin, alive in Him    </a>",
+            "1": "<a class=\"e_Subtitle\">Dead in sin, alive in Him — the power of Gospel   </a>",
             "2": "",
             "3": "",
             "4": "",
